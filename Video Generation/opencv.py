@@ -17,7 +17,7 @@ def convert_ppt_to_images(ppt_path, output_folder):
     presentation.Close()
     powerpoint.Quit()
 
-ppt_path = r'D:\Professional Mobility\Video Generation\Unit 1.pptx'
+ppt_path = r'D:\Professional Mobility\Video Generation\Machine Learning.pptx'
 image_folder = r'D:\Professional Mobility\Video Generation\Image'
 output_video = r'D:\Professional Mobility\Video Generation\cv2_video.mp4'
 
