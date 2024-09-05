@@ -1,0 +1,78 @@
+import os
+import requests
+from io import BytesIO
+from PIL import Image
+from moviepy.editor import ImageSequenceClip, VideoFileClip, AudioFileClip
+from gtts import gTTS
+from transformers import pipeline
+
+generator = pipeline('text-generation', model='gpt2')
+
+PEXELS_API_KEY = 'NWhIPOnrjBJ4HRNIpvSrm8PJygowK7yFQ5qUWbaORWNd2rseyhQxPPQT'
+PEXELS_API_URL = 'https://api.pexels.com/v1/search'
+
+def generate_slide_content(prompt):
+    result = generator(prompt, max_length=150, num_return_sequences=1)
+    return result[0]['generated_text'].strip()
+
+def fetch_images_from_pexels(query, num_images=3):
+    headers = {
+        'Authorization': PEXELS_API_KEY
+    }
+    params = {
+        'query': query,
+        'per_page': num_images
+    }
+    response = requests.get(PEXELS_API_URL, headers=headers, params=params)
+    if response.status_code == 200:
+        return response.json()['photos']
+    else:
+        print(f"Error fetching images: {response.status_code}")
+        return []
+
+def create_video_from_memory_images(image_urls, output_file, fps=1):
+    images = []
+    for url in image_urls:
+        response = requests.get(url)
+        image = Image.open(BytesIO(response.content))
+        images.append(image)
+
+    clips = [ImageSequenceClip([image], duration=1/fps) for image in images]
+    final_clip = sum(clips)
+    final_clip.write_videofile(output_file, codec="libx264")
+
+def generate_voiceover(text, audio_file):
+    tts = gTTS(text, lang='en')
+    tts.save(audio_file)
+
+def add_voiceover_to_video(video_file, audio_file, output_file):
+    video = VideoFileClip(video_file)
+    audio = AudioFileClip(audio_file)
+    video = video.set_audio(audio)
+    video.write_videofile(output_file, codec="libx264")
+
+def download_and_save_files(prompts):
+    for i, prompt in enumerate(prompts):
+        content = generate_slide_content(prompt)
+
+        audio_file = f'voiceover_{i}.mp3'
+        generate_voiceover(content, audio_file)
+
+        images_info = fetch_images_from_pexels(prompt)
+        image_urls = [image['src']['medium'] for image in images_info]
+
+        video_file = f'slide_video_{i}.mp4'
+        create_video_from_memory_images(image_urls, video_file)
+
+        final_output_file = f'final_video_{i}.mp4'
+        add_voiceover_to_video(video_file, audio_file, final_output_file)
+
+        print(f"Downloaded and saved: {audio_file}, {video_file}, {final_output_file}")
+
+prompts = [
+    "Explain the importance of AI in modern technology.",
+    "Describe how machine learning algorithms work.",
+    "Summarize the key takeaways from AI advancements."
+]
+
+download_and_save_files(prompts)

@@ -1,0 +1,3024 @@
+"**Challenge:** ""Python Pioneer""
+
+**Objective:** To learn about the history and evolution of Python, its features and benefits, and compare it with other programming languages at a basic level.
+
+**Challenge Level:** Basics
+
+**Description:** In this challenge, you will explore the origins and development of Python as a programming language. You will also learn about its key features, advantages, and how it compares to other popular programming languages like Java, C++, and JavaScript.
+
+Your task is to:
+
+1. Research the history of Python, including its creation by Guido van Rossum and its evolution over the years.
+2. Identify and list three key features that make Python unique or advantageous compared to other programming languages.
+3. Compare Python with another programming language (Java, C++, or JavaScript) in terms of:
+	* Syntax
+	* Use cases
+	* Strengths and weaknesses
+
+**Milestone Evaluation:**
+
+1. Research on Python's history and evolution (30 points): Participants should demonstrate a clear understanding of Python's creation, early versions, and notable milestones.
+2. Identification of key features (20 points): Participants should correctly identify at least three unique or advantageous features of Python compared to other programming languages.
+3. Comparison with another language (50 points): Participants should provide a detailed comparison of Python with the chosen language, highlighting similarities and differences in syntax, use cases, strengths, and weaknesses.
+
+**Skills:**
+
+* Research skills
+* Critical thinking and analysis
+* Comparison and contrast skills
+* Basic understanding of programming languages
+
+**Challenge Guidelines:**
+
+1. Conduct research on Python's history and evolution.
+2. Write a short essay (max 250 words) summarizing your findings on Python's history and evolution.
+3. Identify three key features that make Python unique or advantageous compared to other programming languages.
+4. Prepare a comparison chart or paragraph (max 150 words) comparing Python with another programming language.
+
+**Prerequisites:**
+
+* Basic understanding of programming concepts
+* Familiarity with the basics of at least one programming language
+
+**Review Process:**
+
+1. Participants will submit their research essay, feature identification, and comparison document.
+2. A panel of reviewers will evaluate participants' work based on the milestones outlined above.
+3. Feedback will be provided to participants, highlighting strengths and areas for improvement.
+
+This challenge is designed to help participants develop a solid understanding of Python's history, features, and benefits, as well as their ability to compare and contrast it with other programming languages. By completing this challenge, participants will gain a deeper appreciation for the versatility and power of Python as a programming language."
+"**Challenge Name:** Python Setup Showdown!
+
+**Objective:** Set up a Python environment on different platforms (Windows, macOS, Linux) and create a virtual environment for a project. Participants will learn how to install Python, set up the interpreter, and manage their virtual environments.
+
+**Challenge Level:** Basics
+
+**Description:** In this challenge, participants will demonstrate their ability to:
+
+1. Install Python on Windows, macOS, and Linux platforms
+2. Set up the Python interpreter and create a new project directory
+3. Create and activate a virtual environment using `virtualenv` or `conda`
+4. Install necessary packages for a simple project (e.g., NumPy, Pandas)
+
+To complete this challenge, participants will:
+
+1. Choose one platform to install Python on (Windows, macOS, Linux)
+2. Set up the Python interpreter in their chosen platform
+3. Create a new project directory and create a virtual environment using `virtualenv` or `conda`
+4. Install NumPy and Pandas packages for a simple data analysis project
+
+**Milestone Evaluation:**
+
+1. Successful installation of Python on the chosen platform (30 points)
+2. Correct setup of the Python interpreter and project directory (20 points)
+3. Creation and activation of a virtual environment using `virtualenv` or `conda` (25 points)
+4. Installation of NumPy and Pandas packages for the project (25 points)
+
+**Skills:**
+
+* Installing Python on different platforms
+* Setting up the Python interpreter
+* Creating and managing virtual environments
+* Installing necessary packages for a project
+
+**Challenge Guidelines:**
+
+1. Choose one platform to install Python on.
+2. Follow the official installation guides for your chosen platform.
+3. Create a new project directory and set up the Python interpreter.
+4. Use `virtualenv` or `conda` to create and activate a virtual environment.
+5. Install NumPy and Pandas packages using pip.
+
+**Prerequisites:**
+
+1. Basic knowledge of computers and operating systems
+2. Familiarity with command-line interfaces (CLI)
+3. Access to a computer with an internet connection
+
+**Review Process:**
+
+1. Participants will submit their challenge results, including screenshots or code snippets demonstrating the completion of each milestone.
+2. Reviewers will evaluate participants' work based on the milestone criteria, providing feedback and scores accordingly.
+3. The top-performing participants will be recognized for their efforts.
+
+By completing this challenge, participants will gain hands-on experience with installing Python, setting up the interpreter, and managing virtual environments – essential skills for any aspiring Python developer!"
+"**Challenge Name:** ""Real-World Data Types""
+
+**Objective:** Master the basics of Python data types by completing a series of practical tasks and exercises, which will enable you to effectively work with strings, integers, floats, booleans, lists, tuples, and dictionaries in real-world scenarios.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+As a budding Python developer, it's essential to understand the fundamental data types that form the building blocks of your code. In this challenge, you'll work through a series of tasks and exercises designed to help you become proficient in working with strings, integers, floats, booleans, lists, tuples, and dictionaries.
+
+**Milestone Evaluation:**
+
+To complete this challenge, you'll need to achieve the following milestones:
+
+1. **Data Type Basics**: Understand how to declare and manipulate each of the basic data types (strings, integers, floats, booleans) in Python.
+2. **List and Tuple Fundamentals**: Learn how to create, index, slice, and manipulate lists and tuples.
+3. **Dictionary Essentials**: Master the basics of creating, updating, and querying dictionaries.
+
+**Skills:**
+
+* Working with basic data types (strings, integers, floats, booleans) in Python
+* Creating, indexing, slicing, and manipulating lists and tuples
+* Creating, updating, and querying dictionaries
+
+**Challenge Guidelines:**
+
+1. Complete each task and exercise to the best of your ability.
+2. Use a Python IDE or text editor to write your code.
+3. Test your code thoroughly to ensure it works as expected.
+4. Submit your code as a single file (e.g., .py) for review.
+
+**Prerequisites:**
+
+* Basic understanding of programming concepts
+* Familiarity with Python syntax and semantics
+
+**Review Process:**
+
+1. Reviewers will evaluate each submission based on the following criteria:
+	* Code quality and readability
+	* Correctness and functionality
+	* Adherence to challenge guidelines and requirements
+2. Feedback will be provided in the form of comments, suggestions for improvement, and ratings (e.g., 1-5).
+3. A final score will be calculated based on the average rating across all submissions.
+
+**Additional Tips:**
+
+* Start with the basics and work your way up to more complex tasks.
+* Don't hesitate to ask for help or clarification if you're unsure about a particular concept or task.
+* Take your time, and don't rush through the challenge. Focus on producing high-quality code that is easy to understand and maintain.
+
+By completing this challenge, you'll gain hands-on experience working with various data types in Python, which will enable you to tackle more complex projects and develop a strong foundation for further learning and professional development."
+"**Challenge Name:** ""Automating Tasks with Conditional Statements""
+
+**Objective:** Learn how to write Python code using conditional statements (if/else) and loops (for, while) to automate repetitive tasks. Participants will develop problem-solving skills by applying arithmetic, comparison, and logical operators.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+You are a data analyst at a marketing firm tasked with processing customer purchase data. The company wants to identify and reward customers who have made multiple purchases within a specific timeframe. Your task is to write a Python program that filters out single-purchase customers and calculates the total amount spent by each eligible customer.
+
+The provided dataset contains the following information:
+
+* Customer ID
+* Purchase Date
+* Purchase Amount
+
+**Milestone Evaluation:**
+
+1. **Initial Code**: Participants must write a basic Python code using conditional statements (if/else) to identify customers who have made multiple purchases.
+2. **Loop Implementation**: Participants must rewrite their initial code using loops (for, while) to process the dataset more efficiently.
+3. **Error Handling**: Participants must add exception handling to handle potential errors or edge cases in their code.
+
+**Skills:**
+
+* Conditional statements (if/else)
+* Loops (for, while)
+* Arithmetic operators (+, -, \*, /)
+* Comparison operators (==, !=, <, >, <=, >=)
+* Logical operators (and, or, not)
+* Exception handling
+
+**Challenge Guidelines:**
+
+1. Use the provided dataset as input for your code.
+2. Write a Python program that filters out single-purchase customers and calculates the total amount spent by each eligible customer.
+3. Implement loops to process the dataset more efficiently.
+4. Add exception handling to handle potential errors or edge cases in your code.
+5. Follow PEP 8 coding style guidelines.
+
+**Prerequisites:**
+
+1. Basic understanding of Python programming concepts
+2. Familiarity with conditional statements and loops
+
+**Review Process:**
+
+1. Code review: A panel of reviewers will evaluate the submitted code based on its correctness, readability, and adherence to best practices.
+2. Feedback: Participants will receive feedback on their code, highlighting areas for improvement and suggesting alternative solutions.
+3. Scoring: The final score will be based on the participant's ability to meet the challenge objectives, with bonus points awarded for creative problem-solving or innovative approaches.
+
+**Tips and Resources:**
+
+* Review Python documentation for conditional statements (if/else) and loops (for, while)
+* Practice using arithmetic, comparison, and logical operators
+* Experiment with different loop implementations (e.g., for, while, list comprehensions)
+
+By completing this challenge, participants will develop their problem-solving skills, learn to write more efficient code, and gain experience working with conditional statements, loops, and exception handling in Python."
+"**Challenge Name:** ""Function Frenzy: Defining and Calling Functions in Python""
+
+**Objective:** In this challenge, you will learn how to define and call functions in Python, as well as explore function arguments, return values, lambda functions, map, filter, and reduce functions. You will develop your skills in writing reusable code, understanding the concept of functions, and applying them to solve real-world problems.
+
+**Challenge Level:** Basics
+
+**Description:** As a developer, you are tasked with creating a program that calculates the average grade for a class of students based on their individual grades. The program should allow users to input multiple student names and corresponding grades, and then output the overall average grade. To achieve this, you will need to define and call functions in Python.
+
+**Milestone Evaluation:**
+
+1. **Define a function**: Participants must create a function that takes in a list of grades as an argument and returns the average grade.
+	* Criteria for evaluation:
+		+ The function should be correctly defined with the correct syntax.
+		+ The function should accept a list of grades as an input.
+		+ The function should return the average grade correctly calculated.
+2. **Call the function**: Participants must call the function with different inputs and verify that it returns the expected output.
+	* Criteria for evaluation:
+		+ The function should be called correctly with different inputs (e.g., single student, multiple students).
+		+ The output of the function should match the expected results.
+
+**Skills:**
+
+1. Defining and calling functions in Python
+2. Understanding function arguments and return values
+3. Using lambda functions to create small, reusable code snippets
+4. Applying map, filter, and reduce functions to solve problems
+
+**Challenge Guidelines:**
+
+1. Use a Python interpreter or IDE to complete the challenge.
+2. Define a function that calculates the average grade based on a list of grades as input.
+3. Call the function with different inputs (e.g., single student, multiple students) and verify the output matches the expected results.
+4. Optional: Use lambda functions to create small, reusable code snippets to simplify the function.
+
+**Prerequisites:** Basic understanding of Python programming, including variables, data types, conditional statements, and loops.
+
+**Review Process:**
+
+1. Participants will submit their code for evaluation.
+2. Reviewers will assess the submitted code based on the criteria outlined above.
+3. Feedback will be provided to participants highlighting areas of strength and improvement.
+4. A score will be awarded based on the participant's performance (e.g., 0-10 points).
+
+By completing this challenge, you will develop your skills in defining and calling functions, as well as applying map, filter, and reduce functions to solve real-world problems. This challenge is designed to help you grow professionally by improving your understanding of Python programming concepts and enhancing your ability to write reusable code."
+"**Challenge:** ""Bank Account System""
+
+**Objective:** Create a basic bank account system using Python's object-oriented programming (OOP) concepts, focusing on classes, constructors, attributes, methods, inheritance, and polymorphism. Participants will learn to design and implement a simple banking system with different types of accounts.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+Imagine you're working for a bank that offers various account types, such as savings, current, and investment accounts. Each account has its own set of features, like interest rates, withdrawal limits, and minimum balance requirements. Your task is to create a Python program that simulates this banking system using OOP principles.
+
+You will define classes for each account type, including constructors to initialize attributes (e.g., account number, owner's name, initial balance), methods to perform transactions (e.g., deposit, withdraw, check balance), and other relevant behaviors. You'll also implement inheritance to create a hierarchy of account types, allowing you to reuse code and promote modularity.
+
+**Milestone Evaluation:**
+
+1. **Account Class Design**: Participants must define the `Account` class with constructors, attributes, and methods for basic operations (deposit, withdraw, check balance).
+2. **Savings Account Implementation**: Participants must create a `SavingsAccount` subclass that inherits from `Account`, adding features like interest calculation and minimum balance requirements.
+3. **Current Account Implementation**: Participants must create a `CurrentAccount` subclass that inherits from `Account`, adding features like overdraft protection and withdrawal limits.
+4. **Investment Account Implementation**: Participants must create an `InvestmentAccount` subclass that inherits from `Account`, adding features like investment returns and compound interest.
+
+**Skills:**
+
+* Understanding of classes, constructors, attributes, methods, and inheritance in Python
+* Familiarity with polymorphism and method overriding
+* Ability to design and implement a simple banking system using OOP principles
+
+**Challenge Guidelines:**
+
+1. Use Python 3.x as your programming environment.
+2. Create separate files for each account type (e.g., `account.py`, `savings_account.py`, `current_account.py`, `investment_account.py`).
+3. Implement the necessary methods and behaviors for each account type, using inheritance to reuse code when possible.
+4. Write docstrings for your classes and methods to explain their purpose and functionality.
+
+**Prerequisites:**
+
+1. Basic understanding of Python programming
+2. Familiarity with object-oriented programming concepts
+
+**Review Process:**
+
+1. Participants will submit their code as a single GitHub repository or ZIP file containing all the required files.
+2. Code reviews will focus on:
+	* Correct implementation of OOP principles (classes, constructors, attributes, methods, inheritance)
+	* Polymorphism and method overriding
+	* Code organization, structure, and readability
+3. Feedback will be provided on areas for improvement, including suggestions for refactoring or optimizing the code.
+
+By completing this challenge, participants will gain hands-on experience with Python's OOP features, developing their skills in designing and implementing a practical banking system."
+"**Challenge: ""Python Package Pro""**
+
+**Name:** Mastering Python Modules and Packages: Creating a Custom Library
+
+**Objective:** Learn how to create, use, and manage custom modules and packages in Python. By the end of this challenge, participants will be able to design and implement their own Python library, leveraging package management tools like pip.
+
+**Challenge Level:** Basics
+
+**Description:** In this challenge, you'll develop a basic understanding of Python's module and package system by creating your own custom library. You'll learn how to:
+
+* Import existing modules and packages
+* Create and use custom modules
+* Manage dependencies with pip
+* Organize and structure your code for reuse and maintenance
+
+To complete the challenge, you'll follow these steps:
+
+1. **Create a Custom Module:** Develop a simple Python module that performs a specific task (e.g., calculates the area of a rectangle).
+2. **Integrate the Module into a Package:** Create a package that contains multiple modules, including your custom module.
+3. **Manage Dependencies with pip:** Use pip to install and manage dependencies for your project, such as popular libraries like NumPy or Pandas.
+4. **Test and Refactor:** Test your code thoroughly and refactor it as needed to ensure maintainability and reusability.
+
+**Milestone Evaluation:**
+
+1. **Custom Module Completion (30 points):** Your custom module should perform the specified task correctly and be properly documented with docstrings.
+2. **Package Creation (25 points):** Your package should include multiple modules, including your custom module, and be structured for easy maintenance.
+3. **Dependency Management (20 points):** You should successfully install and manage dependencies using pip, demonstrating understanding of package management best practices.
+4. **Testing and Refactoring (25 points):** Your code should be thoroughly tested, with tests covering various scenarios and edge cases.
+
+**Skills:**
+
+* Creating custom Python modules
+* Organizing and structuring code for reuse and maintenance
+* Managing dependencies with pip
+* Writing readable and maintainable code
+
+**Challenge Guidelines:**
+
+* Use Python 3.x as your development environment.
+* Keep your code organized and well-documented using docstrings and comments.
+* Test your code thoroughly to ensure correctness and stability.
+
+**Prerequisites:**
+
+* Basic understanding of Python syntax and semantics
+* Familiarity with basic programming concepts (variables, data types, control structures)
+
+**Review Process:**
+
+1. **Code Review:** Review participants' code for correctness, organization, and adherence to best practices.
+2. **Feedback:** Provide constructive feedback on code quality, suggesting improvements and best practices.
+3. **Scoring:** Evaluate participants based on the milestones outlined above, awarding points for completion and quality of work.
+
+By completing this challenge, you'll gain hands-on experience with Python's module and package system, developing essential skills for building and maintaining your own libraries and projects."
+"**Challenge Name:** ""File Frenzy: Mastering File Input/Output in Python""
+
+**Objective:** Learn the basics of file input/output (I/O) in Python, including reading and writing files, working with CSV and JSON files, and understanding file modes and buffering. By the end of this challenge, participants will be able to efficiently work with files in Python, a fundamental skill for any data analyst or scientist.
+
+**Challenge Level:** Basics
+
+**Description:** In this challenge, you'll learn how to interact with various types of files in Python. You'll start by reading and writing text files using the `open()` function and its various modes (e.g., ""r"", ""w"", ""a""). Next, you'll explore working with CSV (comma-separated values) and JSON (JavaScript Object Notation) files, which are commonly used for storing and exchanging data.
+
+Your task is to complete a series of tasks that demonstrate your understanding of file I/O in Python. You'll need to:
+
+1. Write a program that reads a text file and prints its contents.
+2. Create a new text file and write a message to it using the ""w"" mode.
+3. Append a message to an existing text file using the ""a"" mode.
+4. Read a CSV file and extract specific data points (e.g., names, ages).
+5. Write a program that converts a JSON object to a Python dictionary and prints its contents.
+
+**Milestone Evaluation:**
+
+* Task 1: Read a text file and print its contents (15 points)
+* Task 2: Write a message to a new text file using the ""w"" mode (10 points)
+* Task 3: Append a message to an existing text file using the ""a"" mode (10 points)
+* Task 4: Extract specific data points from a CSV file (20 points)
+* Task 5: Convert a JSON object to a Python dictionary and print its contents (25 points)
+
+**Skills:**
+
+* Understanding of file modes (""r"", ""w"", ""a"")
+* Ability to read and write text files using the `open()` function
+* Familiarity with CSV and JSON file formats
+* Knowledge of how to work with buffering in Python
+
+**Challenge Guidelines:**
+
+1. Use Python 3.x for this challenge.
+2. Test your code thoroughly before submitting it.
+3. Include clear comments explaining your code and any assumptions you made.
+
+**Prerequisites:** None
+
+**Review Process:**
+
+1. Participants will submit their code as a single file (e.g., `.py`) or a repository on GitHub/GitLab.
+2. The code will be reviewed for correctness, efficiency, and overall quality.
+3. Feedback will be provided on areas of improvement and suggestions for future challenges.
+
+By completing this challenge, you'll gain hands-on experience with file I/O in Python, which is essential for working with data in various formats. Good luck!"
+"**Challenge Name:** Debugging Delight
+
+**Objective:** In this challenge, you will learn how to effectively debug and test Python code using built-in tools, unit tests, and integration tests. You'll develop your skills in identifying and fixing errors, improving the reliability of your code, and ensuring it meets requirements.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+You are working on a simple calculator program that takes two numbers as input and returns their sum. However, you've noticed that it's not functioning correctly. Your task is to debug the code, identify the errors, and fix them using built-in Python tools like pdb, unit tests with pytest, and integration tests.
+
+**Milestone Evaluation:**
+
+1. **Debugging Basics**: Participants must successfully use the pdb module to set breakpoints, step through the code, and identify the faulty lines.
+2. **Unit Testing**: Participants must write at least three unit tests using pytest to verify that the calculator's sum function works correctly for different input scenarios (e.g., positive numbers, negative numbers, and edge cases).
+3. **Integration Testing**: Participants must create an integration test using pytest to ensure that the calculator program as a whole functions correctly when given valid or invalid inputs.
+4. **Code Refactoring**: Participants must refactor the original code to improve its readability, maintainability, and performance.
+
+**Skills:**
+
+* Using Python's built-in debugger (pdb)
+* Writing unit tests with pytest
+* Creating integration tests with pytest
+* Debugging and troubleshooting techniques
+* Code refactoring for improved maintainability and performance
+
+**Challenge Guidelines:**
+
+1. Use the provided calculator code as a starting point.
+2. Debug the code using pdb to identify and fix errors.
+3. Write at least three unit tests with pytest to verify the sum function's correctness.
+4. Create an integration test with pytest to ensure the calculator program works correctly.
+5. Refactor the original code for better readability, maintainability, and performance.
+
+**Prerequisites:**
+
+* Basic understanding of Python programming concepts
+* Familiarity with the pdb module and pytest framework
+* Access to a Python environment (e.g., PyCharm, VSCode, or IDLE)
+
+**Review Process:**
+
+1. Participants will submit their code for review.
+2. The challenge reviewer will evaluate each milestone based on the provided criteria.
+3. Feedback will be provided for any areas of improvement or suggestions for optimization.
+
+By completing this challenge, you'll develop essential skills in debugging and testing, ensuring that your Python code is reliable, maintainable, and efficient."
+"**Challenge:** ""Async Task Management""
+
+**Objective:** Learn how to manage asynchronous tasks in Python using decorators, generators, iterators, and asyncio, while improving concurrency skills.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+Imagine you're a web developer working on an e-commerce platform. You've been tasked with creating a system that can handle multiple concurrent orders from customers. Each order requires processing through various stages (e.g., payment verification, product availability check, and shipping calculation). You need to design a solution that efficiently manages these tasks without slowing down the overall performance.
+
+In this challenge, you'll create an asynchronous task management system using Python's asyncio library. You'll learn how to:
+
+1. Create decorators for handling asynchronous tasks
+2. Implement generators and iterators to manage task queues
+3. Use lambda functions and map-reduce for efficient processing
+4. Leverage asyncio to coordinate concurrent tasks
+
+**Milestone Evaluation:**
+
+To complete the challenge, you must achieve the following milestones:
+
+1. **Task Definition**: Define a set of asynchronous tasks (e.g., payment verification, product availability check) and implement them using decorators.
+2. **Queue Management**: Design a generator-based queue system that can manage multiple tasks concurrently.
+3. **Concurrent Processing**: Implement asyncio to coordinate the execution of concurrent tasks, ensuring efficient processing without blocking.
+4. **Error Handling**: Add error handling mechanisms for each task, using try-except blocks and logging.
+
+**Criteria for Evaluation:**
+
+* Code functionality and correctness
+* Readability, maintainability, and scalability
+* Effective use of Python's asyncio library and decorators
+* Error handling and debugging techniques
+
+**Skills:**
+
+1. Asynchronous programming with asyncio
+2. Decorators for managing tasks
+3. Generators and iterators for queue management
+4. Lambda functions and map-reduce for efficient processing
+5. Concurrency skills using asyncio
+
+**Challenge Guidelines:**
+
+1. Use Python 3.7 or higher.
+2. Implement the system in a single Python file (e.g., `task_manager.py`).
+3. Ensure the system can handle at least 5 concurrent tasks.
+4. Test your code thoroughly to ensure it handles edge cases and errors.
+
+**Prerequisites:**
+
+1. Basic understanding of Python programming
+2. Familiarity with decorators, generators, and iterators in Python
+
+**Review Process:**
+
+1. Participants submit their code solutions.
+2. Code reviews are conducted based on the evaluation criteria.
+3. Feedback is provided to participants highlighting strengths, weaknesses, and suggestions for improvement.
+
+By completing this challenge, you'll develop a solid understanding of asyncio, decorators, generators, iterators, and concurrency in Python, preparing you for more advanced topics in Python programming."
+"Here's a real-world based challenge on the subtopic 1. **Introduction to Python**:
+
+**Challenge Name:** ""Python Pioneer: Introduction to Basics""
+
+**Objective:** As a beginner in the world of programming, your goal is to create a simple calculator program using Python that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+**Challenge Level:** Basics
+
+**Description:** You are tasked with creating a command-line based calculator program in Python. The program should be able to take user input for two numbers and an operator (+, -, *, /), then output the result of the operation. For example, if the user inputs ""2 + 3"", the program should respond with ""5"". Make sure to include error handling for invalid inputs.
+
+**Milestone Evaluation:**
+
+1. **Initial Setup**: Participants must create a new Python file and set up their environment correctly.
+	* Criteria: Correct file creation, proper indentation, and basic syntax understanding.
+2. **Basic Calculator Functions**: Participants should implement basic arithmetic operations (+, -, *, /).
+	* Criteria: Correct implementation of at least two arithmetic operations, proper error handling for invalid inputs.
+3. **User Input Handling**: Participants must design a way to accept user input (two numbers and an operator) and process it correctly.
+	* Criteria: Proper parsing of user input, correct operation execution based on the operator.
+
+**Skills:**
+
+1. Basic Python syntax and structure
+2. Understanding of variables, data types, and operators in Python
+3. Familiarity with control structures (if-else statements)
+4. Ability to handle errors and exceptions
+
+**Challenge Guidelines:**
+
+1. Use only built-in Python functions and modules.
+2. Your program should be able to handle basic arithmetic operations (+, -, *, /) correctly.
+3. Include error handling for invalid inputs (e.g., non-numeric values or incorrect operators).
+4. Keep your code organized and readable.
+
+**Prerequisites:**
+
+1. Familiarity with basic programming concepts
+2. Basic understanding of Python syntax and structure
+
+**Review Process:**
+
+1. Participants will submit their Python file as a ZIP archive.
+2. The challenge facilitator will review each submission based on the milestones and criteria provided.
+3. Feedback will be given in the form of comments and suggestions for improvement.
+
+By completing this challenge, participants will gain hands-on experience with basic Python programming concepts, develop problem-solving skills, and learn how to structure their code effectively."
+"**Challenge:** ""Python Pioneer""
+
+**Objective:** To set up a Python environment, understand the basics of the Python shell, and familiarize yourself with an Integrated Development Environment (IDE).
+
+**Challenge Level:** Basics
+
+**Description:** As a beginner in the world of Python programming, your mission is to create a comprehensive Python environment on your computer. This challenge will guide you through installing Python, setting up an IDE, and exploring the basics of the Python shell.
+
+**Milestone Evaluation:**
+
+1. **Install Python**: Verify that Python is installed correctly on your system.
+2. **Set up IDE**: Ensure that an IDE (such as PyCharm or Visual Studio Code) is set up and functioning properly.
+3. **Python Shell Basics**: Complete a series of basic tasks in the Python shell, including:
+	* Printing ""Hello, World!"" to the console
+	* Asking for user input using `input()`
+	* Assigning a variable and printing its value
+
+**Skills:**
+
+1. Installing software (Python) on your computer
+2. Setting up an Integrated Development Environment (IDE)
+3. Understanding basic syntax and operations in the Python shell
+4. Familiarizing yourself with variables, data types, and control structures in Python
+
+**Challenge Guidelines:**
+
+* Follow the official installation instructions for Python from the official website.
+* Choose one IDE from the recommended list (PyCharm or Visual Studio Code) and follow its setup guide.
+* Complete the tasks listed under ""Python Shell Basics"" using a text editor or an IDE's console.
+
+**Prerequisites:** None, but familiarity with basic computer operations (e.g., installing software) is assumed.
+
+**Review Process:**
+
+1. Participants will submit a screenshot of their Python installation and IDE setup.
+2. They will provide the output of the ""Python Shell Basics"" tasks as text or code.
+3. A review panel will assess the submissions based on the following criteria:
+	* Correctness of Python installation and IDE setup
+	* Accuracy of Python shell commands and outputs
+4. Feedback will be provided in the form of comments or suggestions for improvement.
+
+**Additional Tips:**
+
+* Make sure to follow best practices for installing software and configuring your IDE.
+* Be patient and don't hesitate to seek help if you encounter any issues during the challenge.
+* Practice makes perfect, so feel free to experiment with Python shell commands and try new things!"
+"**Challenge:** ""Data Types Frenzy""
+
+**Objective:** In this challenge, you will practice working with different data types in Python, including numbers, strings, lists, tuples, dictionaries, and sets. You will learn how to declare variables, perform basic operations, and manipulate data structures.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+Imagine you are a data analyst tasked with processing and analyzing large datasets for a company. Your goal is to create a Python program that can handle various types of data and perform basic operations on them. You will work on a series of exercises that focus on different data types, including numbers, strings, lists, tuples, dictionaries, and sets.
+
+**Milestone Evaluation:**
+
+1. **Variables and Data Types**: Create variables for each data type (numbers, strings, lists, tuples, dictionaries, and sets) and demonstrate basic operations such as printing, adding, concatenating, indexing, and slicing.
+2. **List Operations**: Write code to perform the following list operations:
+	* Append an element to a list
+	* Insert an element at a specific position in a list
+	* Remove an element from a list
+	* Sort a list in ascending or descending order
+3. **Dictionary Manipulation**: Create a dictionary and demonstrate how to:
+	* Add key-value pairs
+	* Access values using keys
+	* Update values
+	* Delete key-value pairs
+4. **Set Operations**: Write code to perform the following set operations:
+	* Union two sets
+	* Intersection two sets
+	* Difference between two sets
+
+**Skills:**
+
+1. Understanding of Python data types (numbers, strings, lists, tuples, dictionaries, and sets)
+2. Ability to declare variables and perform basic operations
+3. Familiarity with list comprehensions and dictionary methods
+4. Knowledge of set operations and their applications
+
+**Challenge Guidelines:**
+
+1. Use a Python interpreter or IDE to complete the exercises.
+2. Write clear, concise, and well-structured code for each exercise.
+3. Test your code thoroughly to ensure it works correctly.
+4. Follow PEP 8 guidelines for coding style.
+
+**Prerequisites:** Basic understanding of Python syntax and structure, familiarity with variables and data types, and experience working with lists, dictionaries, and sets (if applicable).
+
+**Review Process:**
+
+1. Code review: Assess the code for correctness, readability, and adherence to PEP 8 guidelines.
+2. Functionality evaluation: Test each exercise's functionality to ensure it meets the requirements.
+3. Feedback: Provide constructive feedback on code quality, suggesting improvements and best practices.
+
+By completing this challenge, you will develop essential skills in working with Python data types, which is crucial for building robust and efficient programs."
+"**Challenge Name:** ""Python Operators: Mastering the Basics""
+
+**Objective:** Learn to apply arithmetic, comparison, logical, assignment, and bitwise operators in Python to write efficient and effective code. By the end of this challenge, participants will be able to use these operators to solve real-world problems.
+
+**Challenge Level:** Basics
+
+**Description:** In this challenge, you will learn how to utilize various operators in Python to manipulate data, make decisions, and assign values. You will work on practical exercises that simulate everyday scenarios, such as calculating expenses, checking if a number is even or odd, and performing bitwise operations. Your goal is to write Python code that demonstrates your understanding of these operators.
+
+**Milestone Evaluation:**
+
+1. **Arithmetic Operator Mastery:** Write code using arithmetic operators (+, -, \*, /, %) to calculate the sum, difference, product, quotient, and remainder of two numbers.
+2. **Comparison Operator Expertise:** Use comparison operators (==, !=, >, <, >=, <=) to write conditional statements that check if a number is greater than, less than, or equal to another value.
+3. **Logical Operator Proficiency:** Apply logical operators (and, or, not) to create complex conditions and make decisions based on multiple criteria.
+4. **Assignment Operator Efficiency:** Write code using assignment operators (=, +=, -=, \*=, /=, %=) to assign values and perform calculations.
+5. **Bitwise Operator Mastery:** Utilize bitwise operators (&, |, ^, ~) to manipulate binary data and perform operations like bit shifting.
+
+**Skills:**
+
+* Understanding of arithmetic, comparison, logical, assignment, and bitwise operators in Python
+* Ability to write efficient and effective code using these operators
+* Familiarity with conditional statements and decision-making
+
+**Challenge Guidelines:**
+
+1. Write your code in a .py file or an online code editor.
+2. Each exercise should have its own separate section or function.
+3. Use clear and descriptive variable names.
+4. Test your code thoroughly to ensure it produces the expected output.
+
+**Prerequisites:** Basic understanding of Python programming concepts, such as variables, data types, and basic syntax.
+
+**Review Process:**
+
+1. Submit your .py file or link to an online code editor.
+2. A panel of reviewers will evaluate your code based on the following criteria:
+	* Correctness (does the code produce the expected output?)
+	* Code readability and organization
+	* Use of operators in a logical and efficient manner
+3. Receive feedback on your code, highlighting areas for improvement and suggestions for optimization.
+
+By completing this challenge, you will gain hands-on experience with Python operators, enabling you to write more effective and efficient code. Good luck!"
+"**Challenge Name:** ""Weather Forecasting Frenzy""
+
+**Objective:** In this challenge, you will learn to use conditional statements (if-elif-else) and loops (for) in Python to create a basic weather forecasting program. You will develop your problem-solving skills by simulating different weather conditions and making decisions based on those conditions.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+You are a junior meteorologist at a local news station, responsible for creating a weather forecast program that can predict the weather for the next few days. Your task is to write a Python program that takes into account the current temperature, humidity, and wind speed to determine whether it will be sunny, cloudy, or rainy.
+
+**Milestone Evaluation:**
+
+1. **Temperature Check**: Participants must create an if-elif-else statement that checks the current temperature and determines whether it's above 25°C (sunny), below 15°C (cloudy), or within a range of 15°C to 25°C (rainy).
+2. **Humidity Hurdle**: Participants must add a for loop that iterates over a list of humidity levels and checks if the current humidity is above 60%. If it is, they must print ""High Humidity"" as an additional weather condition.
+3. **Wind Speed Warning**: Participants must create another if-elif-else statement that checks the wind speed and determines whether it's above 50 km/h (strong winds), between 20 km/h to 50 km/h (moderate winds), or below 20 km/h (calm winds).
+
+**Skills:**
+
+* Conditional statements (if-elif-else) for making decisions based on different weather conditions
+* Loops (for) for iterating over lists and checking conditions multiple times
+* Basic problem-solving skills in Python programming
+
+**Challenge Guidelines:**
+
+1. Write your code in a single .py file.
+2. Use the provided templates for temperature, humidity, and wind speed checks.
+3. Make sure to include comments explaining your thought process and decision-making logic.
+
+**Prerequisites:** None; this challenge is designed for beginners with basic knowledge of Python syntax.
+
+**Review Process:**
+
+1. Participants will submit their code as a single .py file.
+2. The submission will be reviewed for accuracy, completeness, and adherence to the guidelines.
+3. A score of 0-10 will be assigned based on the participant's ability to complete each milestone correctly.
+4. Feedback will be provided on areas for improvement and suggestions for enhancing the program.
+
+Are you ready to take on this weather forecasting challenge? Let's get started!"
+"**Challenge:** ""Function Frenzy""
+
+**Objective:** Learn the basics of defining functions in Python, including function arguments, return statements, and anonymous functions (lambda functions). Participants will develop their skills in writing efficient and effective functions to solve real-world problems.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+As a junior data analyst at a marketing firm, you've been tasked with creating a Python script that can analyze customer purchase data. You need to write functions to extract relevant information from the data, calculate metrics, and visualize insights. In this challenge, you'll learn how to define and utilize functions in Python.
+
+Your goal is to create three separate functions:
+
+1. A function that takes a list of customer ages as input and returns the average age.
+2. A function that calculates the total revenue generated by customers within a specific age range (18-35).
+3. Use an anonymous function (lambda) to transform a list of customer names into uppercase letters.
+
+**Milestone Evaluation:**
+
+* Milestone 1: Define a function with no arguments that returns the average age from a predefined list of ages.
+	+ Criteria for evaluation:
+		- The function is correctly defined and returns the expected output.
+		- No syntax errors or runtime exceptions.
+* Milestone 2: Write a function that takes a list of customer ages as input and calculates the total revenue generated by customers within the age range 18-35. Assume that each customer's revenue is proportional to their age (e.g., customer aged 25 has twice the revenue of a customer aged 12).
+	+ Criteria for evaluation:
+		- The function correctly calculates the total revenue.
+		- No syntax errors or runtime exceptions.
+* Milestone 3: Use an anonymous function (lambda) to transform a list of customer names into uppercase letters.
+	+ Criteria for evaluation:
+		- The lambda function is correctly defined and applies the transformation as expected.
+		- No syntax errors or runtime exceptions.
+
+**Skills:**
+
+* Defining functions with no arguments
+* Function arguments and return statements
+* Anonymous functions (lambda) in Python
+* Basic data manipulation and calculation
+
+**Challenge Guidelines:**
+
+1. Write each function in a separate script file (e.g., `average_age.py`, `total_revenue.py`, `uppercase_names.py`).
+2. Use the provided sample data for testing your functions.
+3. Ensure that each function is well-documented with clear variable names, comments, and a brief description.
+
+**Prerequisites:**
+
+* Basic understanding of Python syntax
+* Familiarity with basic data structures (lists, dictionaries)
+
+**Review Process:**
+
+1. Participants submit their code files for review.
+2. The reviewer evaluates the code against the milestone criteria and provides feedback on any issues or areas for improvement.
+3. A final score is awarded based on the participant's performance across all three milestones.
+
+**Tips and Variations:**
+
+* To make the challenge more challenging, add additional requirements such as handling errors, implementing unit tests, or optimizing function performance.
+* For a more advanced version, ask participants to integrate their functions with a larger Python script that simulates real-world data analysis scenarios."
+"**Challenge Name:** ""Module Mastermind""
+
+**Objective:** To develop a solid understanding of importing modules, writing own modules, and packaging in Python by creating a personal project that showcases these skills.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+In this challenge, you will create a simple calculator program that can perform basic arithmetic operations (addition, subtraction, multiplication, and division). You will use existing Python modules to handle user input, perform calculations, and display results. Additionally, you will write your own custom module to extend the functionality of the calculator.
+
+**Milestone Evaluation:**
+
+1. **Module Mastery:** Successfully import the `math` module and use its functions in your calculator program.
+2. **Custom Module Creation:** Write a custom module that adds a new feature to the calculator (e.g., handling complex numbers or trigonometric operations).
+3. **Package Organization:** Organize your project into separate modules and packages, demonstrating an understanding of Python's package structure.
+
+**Skills:**
+
+* Importing and using existing Python modules
+* Writing and testing custom modules
+* Understanding and creating Python packages
+* Debugging and troubleshooting code
+
+**Challenge Guidelines:**
+
+1. Start by setting up a new Python project with a suitable directory structure.
+2. Write your calculator program using the `math` module for basic arithmetic operations.
+3. Create a custom module that extends the calculator's functionality (e.g., handling complex numbers or trigonometric operations).
+4. Organize your project into separate modules and packages, following best practices for Python packaging.
+5. Test and debug your code to ensure it runs correctly.
+
+**Prerequisites:**
+
+* Basic understanding of Python programming
+* Familiarity with the `math` module and its functions
+
+**Review Process:**
+
+1. Participants will submit their project repository or a ZIP file containing their code.
+2. The reviewer will evaluate the submission based on the milestones outlined above, providing feedback on:
+	+ Correctness and functionality
+	+ Code organization and structure
+	+ Adherence to best practices for Python packaging
+3. A score of 1-5 (1 = novice, 5 = expert) will be assigned based on the participant's performance.
+
+By completing this challenge, you will gain hands-on experience with importing modules, writing custom modules, and organizing your code into packages. These skills are essential for professional software development in Python, and mastering them will enhance your coding abilities and problem-solving capabilities."
+"**Challenge: ""Error Handling in Python""**
+
+**Name:** ""Handling Exceptions like a Pro""
+
+**Objective:** To understand the basics of error handling in Python, including exceptions, try-except blocks, and raising custom exceptions. Participants will learn to write robust code that can handle unexpected errors and exceptions.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+Imagine you're building a web scraper in Python that extracts data from a website. Suddenly, you encounter an unexpected error when trying to parse the HTML content. Your script crashes, and you lose all your hard-earned data! This is where error handling comes in – it's essential for writing robust code that can recover from unexpected errors.
+
+In this challenge, you'll learn how to handle exceptions using try-except blocks, raise custom exceptions, and finally, write a program that recovers from errors in a real-world scenario. You'll work on a Python script that:
+
+1. Reads a text file containing user input.
+2. Attempts to parse the input data into a structured format (e.g., JSON).
+3. If an error occurs during parsing, it should catch the exception and provide a meaningful error message.
+
+**Milestone Evaluation:**
+
+* Milestone 1 (30%): Write a Python script that reads a text file containing user input.
+* Milestone 2 (40%): Add try-except blocks to handle errors when parsing the input data. Provide a basic error message for each type of exception.
+* Milestone 3 (30%): Refine your error handling by raising custom exceptions with descriptive messages.
+
+**Skills:**
+
+* Understanding Python exceptions and try-except blocks
+* Writing robust code that recovers from unexpected errors
+* Raising custom exceptions with meaningful messages
+
+**Challenge Guidelines:**
+
+1. Use Python 3.x for this challenge.
+2. Write a single Python script (file) to complete the challenge.
+3. You can use any libraries or modules as needed, but keep in mind that error handling is about writing robust code that works without external dependencies.
+4. Keep your code organized and readable; maintainability is crucial!
+
+**Prerequisites:**
+
+1. Basic understanding of Python programming concepts (variables, control structures, functions).
+2. Familiarity with Python 3.x syntax and basic data types.
+
+**Review Process:**
+
+1. Code review: Participants will submit their script as a single file.
+2. Error handling evaluation: Reviewers will assess the code's ability to recover from errors using try-except blocks and custom exceptions.
+3. Readability and maintainability: Evaluate the organization, commenting, and overall readability of the submitted code.
+
+Get ready to master error handling in Python!"
+"**Challenge:** ""File Frenzy: Organizing Student Data""
+
+**Objective:** Learn how to read, write, and manipulate files in Python, while organizing student data for a school project.
+
+**Challenge Level:** Basics
+
+**Description:** You are working as a data analyst for a school project. Your task is to create a program that reads in a CSV file containing student data (name, grade level, and favorite subject) and writes the data to a new CSV file with specific formatting requirements. The program should also generate a summary report showing the number of students in each grade level.
+
+**Milestone Evaluation:**
+
+1. **File Input**: Participants must demonstrate the ability to read a CSV file using the `csv` module.
+2. **Data Manipulation**: Participants must show how to manipulate the student data (e.g., sorting, filtering) and write it to a new CSV file with specific formatting requirements.
+3. **Summary Report**: Participants must create a summary report showing the number of students in each grade level.
+
+**Criteria for Evaluation:**
+
+* Code is correct and functional
+* File input/output operations are properly implemented
+* Data manipulation and writing are accurate and efficient
+* Summary report is correctly generated
+
+**Skills:** Developed or utilized during the challenge:
+
+* File Input/Output using Python's built-in libraries (e.g., `csv`, `json`)
+* Basic data manipulation techniques (e.g., sorting, filtering)
+* String formatting for CSV files
+* Data analysis and reporting concepts
+
+**Challenge Guidelines:**
+
+1. Use a sample CSV file provided with the challenge or create your own.
+2. Implement file input/output operations using Python's built-in libraries.
+3. Manipulate student data as instructed in the challenge description.
+4. Write the manipulated data to a new CSV file with specific formatting requirements (e.g., header, footer, columns).
+5. Generate a summary report showing the number of students in each grade level.
+
+**Prerequisites:**
+
+* Basic understanding of Python programming concepts
+* Familiarity with CSV files and basic data manipulation techniques
+
+**Review Process:** Participants' work will be reviewed based on the evaluation criteria outlined above. A scoring rubric will be used to assess the code's correctness, efficiency, and adherence to challenge guidelines. Feedback will be provided to participants, highlighting strengths and areas for improvement.
+
+By completing this challenge, participants will develop a solid understanding of file input/output operations in Python, as well as basic data manipulation techniques."
+"Here's a real-world based challenge on list comprehensions:
+
+**Challenge Name:** ""Employee Data Analysis""
+
+**Objective:** Analyze employee data to extract specific information, filter out irrelevant data, and combine it with other relevant information.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+You are working as a data analyst for a company that has recently expanded its workforce. The HR department has provided you with a list of all employees, including their names, departments, job titles, and salaries. Your task is to extract specific information from this list, filter out irrelevant data, and combine it with other relevant information.
+
+**Milestones:**
+
+1. Extract the names and job titles of all employees working in the sales department.
+2. Filter out employees who earn more than $80,000 per year.
+3. Combine the extracted data with a list of employee departments to create a new list that includes the employee's name, job title, department, and salary.
+
+**Evaluation Criteria:**
+
+* Accuracy of the extracted data
+* Correctness of the filtered data
+* Completeness of the combined list
+
+**Skills:**
+
+* Understanding basic list comprehension syntax
+* Filtering data using conditional statements in list comprehensions
+* Combining data from multiple sources using list comprehensions
+* Analyzing and interpreting data to extract relevant information
+
+**Challenge Guidelines:**
+
+* Use a provided sample list of employee data to complete the challenge.
+* Follow the specified milestone steps in order to complete the challenge.
+* Use list comprehensions to filter, map, and combine data as needed.
+* Assume that all employees have valid job titles, departments, and salaries.
+
+**Prerequisites:** None
+
+**Review Process:**
+
+1. Participants will submit their code as a Python script.
+2. The code will be reviewed for accuracy, correctness, and completeness based on the evaluation criteria.
+3. Feedback will be provided in the form of comments or suggestions to improve the participant's approach.
+
+This challenge is designed to help participants develop their skills in using list comprehensions to filter, map, and combine data. By completing this challenge, participants will gain practical experience in applying these concepts to real-world scenarios."
+"Here's a real-world based challenge on the subtopic ""Introduction to Python: History, features, and basic syntax"" for Basics level:
+
+**Challenge Name:** Python Palooza - Basics Bonanza!
+
+**Objective:** Learn the fundamentals of Python programming by creating a simple program that solves a real-world problem. Participants will develop their understanding of variables, data types, operators, control structures (if/else, for loops), and functions.
+
+**Challenge Level:** Basics
+
+**Description:** You're a junior data analyst at a marketing firm tasked with analyzing customer demographics to improve targeted advertising campaigns. Your supervisor has asked you to create a Python program that calculates the average age of customers based on their birth years and genders. The input data is provided in a CSV file.
+
+Your task is to write a Python program using basic control structures (if/else, for loops), functions, and modules to:
+
+1. Read the CSV file and extract relevant information
+2. Calculate the average age based on gender and birth year
+3. Print the results
+
+**Milestone Evaluation:**
+
+* Milestone 1 (20%): Participants must be able to read the CSV file and extract the necessary data into a Python dictionary or list.
+* Milestone 2 (30%): Participants must implement basic control structures (if/else, for loops) to calculate the average age for each gender.
+* Milestone 3 (50%): Participants must write functions to handle input validation, error handling, and output formatting.
+
+**Skills:**
+
+* Basic Python syntax
+* Understanding of variables, data types, and operators
+* Familiarity with control structures (if/else, for loops)
+* Knowledge of functions and modules
+
+**Challenge Guidelines:**
+
+1. Use the provided CSV file as input.
+2. Write your code in a single .py file.
+3. Use descriptive variable names and comments to explain your code.
+4. Test your program using different inputs and edge cases.
+
+**Prerequisites:** None, but prior experience with programming concepts is helpful.
+
+**Review Process:**
+
+1. Participants submit their Python code as a .zip or .tar.gz file.
+2. The review panel evaluates the submitted code based on the milestone criteria (20% for Milestone 1, 30% for Milestone 2, and 50% for Milestone 3).
+3. Feedback is provided in the form of comments and suggestions for improvement.
+
+By completing this challenge, participants will develop their basic Python programming skills, learn to work with data structures, and understand how to apply control structures and functions to solve real-world problems."
+"**Challenge: ""Python Pioneer""**
+
+**Objective:** To understand the history and significance of Python programming language, compare it with other popular languages, and apply basic Python concepts to real-world scenarios.
+
+**Challenge Level:** Basics
+
+**Description:** As a beginner in the world of programming, you'll embark on a journey to discover the benefits and applications of Python. You will learn about its history, advantages, and use cases, as well as how it compares to other popular languages like Java, C++, and JavaScript.
+
+To complete this challenge, you'll:
+
+1. Research the history and evolution of Python.
+2. Compare Python's strengths and weaknesses with those of Java, C++, and JavaScript.
+3. Identify real-world scenarios where Python excels, such as data analysis, machine learning, web development, and automation.
+4. Apply basic Python syntax and concepts (e.g., variables, data types, control structures) to a simple problem or scenario.
+
+**Milestone Evaluation:**
+
+1. **Research and Comparison**: Participants will be evaluated on their understanding of Python's history, its strengths and weaknesses compared to other languages, and real-world scenarios where it excels.
+2. **Basic Syntax Application**: Participants will be assessed on their ability to apply basic Python syntax and concepts to a simple problem or scenario.
+
+**Skills:**
+
+* Understanding the history and evolution of Python
+* Comparing Python's features with those of Java, C++, and JavaScript
+* Identifying real-world scenarios where Python excels
+* Applying basic Python syntax and concepts
+
+**Challenge Guidelines:**
+
+1. Research the history and evolution of Python, including its creation, popularity, and adoption in various industries.
+2. Compare Python's strengths (e.g., ease of use, readability) and weaknesses (e.g., slow performance for complex computations) with those of Java, C++, and JavaScript.
+3. Identify at least three real-world scenarios where Python excels, such as data analysis, machine learning, web development, or automation.
+4. Apply basic Python syntax and concepts to a simple problem or scenario, demonstrating understanding of variables, data types, control structures, and functions.
+
+**Prerequisites:**
+
+* No prior programming experience is necessary, but familiarity with basic computer concepts (e.g., algorithms, data structures) would be helpful.
+
+**Review Process:**
+
+1. Participants will submit their research report, comparison analysis, and application scenario in a format of their choice (e.g., PDF, Word document).
+2. The review process will focus on the clarity and accuracy of the information presented, as well as the participant's ability to apply basic Python syntax and concepts.
+3. Feedback will be provided to participants on their submissions, highlighting areas for improvement and suggesting next steps.
+
+**Timeframe:** Participants will have 7-10 days to complete this challenge.
+
+By completing this challenge, you'll gain a solid foundation in understanding the significance of Python programming language and its applications in real-world scenarios."
+"**Challenge:** ""Python Pioneer""
+
+**Objective:** To set up a Python environment on your preferred operating system (Windows, macOS, or Linux) and familiarize yourself with an Integrated Development Environment (IDE) like PyCharm, Visual Studio Code, or Jupyter Notebook. Additionally, you will learn to execute Python scripts using the command line interface.
+
+**Challenge Level:** Basics
+
+**Description:** As a Python Pioneer, your mission is to set up a Python environment on your preferred operating system and explore an IDE of your choice. You will need to:
+
+1. Install Python (if not already installed) and choose one of the following options:
+	* Install PyCharm Community Edition (Windows, macOS, or Linux)
+	* Install Visual Studio Code (Windows, macOS, or Linux)
+	* Set up Jupyter Notebook (Python-only environment)
+2. Create a new project in your chosen IDE and write a simple ""Hello World"" Python script.
+3. Execute the script using the command line interface.
+
+**Milestone Evaluation:**
+
+1. Successful installation of Python on your operating system (20 points).
+2. Setup and configuration of an IDE (PyCharm, Visual Studio Code, or Jupyter Notebook) with a new project (30 points).
+3. Writing and execution of a simple ""Hello World"" Python script using the command line interface (50 points).
+
+**Skills:**
+
+* Setting up Python on Windows, macOS, or Linux
+* Choosing and configuring an IDE for Python development
+* Writing and executing a simple Python script using the command line interface
+
+**Challenge Guidelines:**
+
+1. Complete the installation of Python and your chosen IDE within 30 minutes.
+2. Write and execute a ""Hello World"" Python script within 45 minutes.
+3. Submit your project files (IDE-specific) along with a written report detailing your experience and any challenges you faced.
+
+**Prerequisites:** None
+
+**Review Process:**
+
+1. A review panel will evaluate the submission based on the milestones outlined above.
+2. Feedback will be provided for each submission, highlighting strengths and areas for improvement.
+3. The participant with the highest score will receive a special recognition badge.
+
+**Additional Tips:**
+
+* Take your time to explore the IDE's features and learn how to navigate its interface.
+* Don't hesitate to ask for help if you encounter any issues during installation or setup.
+* Practice makes perfect, so don't be afraid to try new things and experiment with different code snippets."
+"**Challenge Name:** ""Python Pioneer""
+
+**Objective:** As a Python Pioneer, your task is to create a simple weather station simulator using Python's control structures and data types. You will learn to manipulate variables, use conditional statements, loops, and functions to simulate real-world weather patterns.
+
+**Challenge Level:** Basics
+
+**Description:** Imagine you're an aspiring meteorologist tasked with creating a simple weather station simulator that can predict the current temperature, humidity, and wind speed based on user input. Your program should:
+
+1. Ask the user for their location (city or zip code) and current weather conditions.
+2. Use Python's control structures to determine the average temperature range for that location (e.g., hot, mild, cold).
+3. Calculate the relative humidity based on the average temperature and a set of predefined humidity ranges.
+4. Predict the wind speed using a simple algorithm that takes into account the average temperature and humidity.
+
+**Milestone Evaluation:**
+
+1. **Temperature**: Your program should correctly determine the average temperature range for the user's location (hot, mild, or cold).
+2. **Humidity**: Your program should calculate the relative humidity based on the average temperature and predefined ranges.
+3. **Wind Speed**: Your program should predict a reasonable wind speed based on the average temperature and humidity.
+
+**Skills:**
+
+* Manipulating variables and data types (integer, float, string, boolean)
+* Using conditional statements (if-else) to determine weather conditions
+* Looping through data sets using for or while loops
+* Function usage for reusable code blocks
+
+**Challenge Guidelines:**
+
+1. Use Python's built-in libraries (e.g., requests, json) to fetch weather data from an API of your choice.
+2. Implement a simple algorithm to predict wind speed based on temperature and humidity.
+3. Ensure your program handles errors and edge cases (e.g., invalid user input).
+4. Code quality and readability are important; use descriptive variable names and proper indentation.
+
+**Prerequisites:** Familiarity with basic Python syntax, including variables, data types, conditional statements, loops, and functions.
+
+**Review Process:**
+
+1. Participants will submit their Python code as a single file (e.g., `weather_station.py`).
+2. Code will be reviewed for correctness, efficiency, and adherence to challenge guidelines.
+3. A score out of 10 will be awarded based on the following criteria:
+	* Correctness: 5 points
+	* Efficiency: 3 points
+	* Code quality and readability: 2 points
+
+Get ready to embark on this exciting adventure in Python programming!"
+"**Challenge:** ""Mastering Functions and Modules""
+
+**Objective:** Learn to define functions with various argument types, understand how to import and use modules, and apply built-in modules (math, datetime, random) to solve real-world problems.
+
+**Challenge Level:** Basics
+
+**Description:** In this challenge, you will create a program that calculates the area of different shapes using functions. You will also learn how to import and use built-in modules like math, datetime, and random to add functionality to your program. Finally, you will use recursion to calculate the factorial of a given number.
+
+**Milestone Evaluation:**
+
+1. **Function Fundamentals:** Define a function that takes two integer arguments and returns their sum.
+	* Evaluation criteria: Correct function definition, correct output for sample inputs.
+2. **Module Mastery:** Import the math module and use its functions (e.g., sin(), cos()) to calculate trigonometric values.
+	* Evaluation criteria: Correct import statement, correct usage of math module functions.
+3. **Randomness:** Use the random module to generate a random integer between 1 and 100.
+	* Evaluation criteria: Correct import statement, correct usage of random module function.
+4. **DateTime Delights:** Use the datetime module to calculate the current date and time, as well as format it in a specific way.
+	* Evaluation criteria: Correct import statement, correct usage of datetime module functions.
+5. **Recursion:** Define a recursive function that calculates the factorial of a given integer.
+	* Evaluation criteria: Correct function definition, correct output for sample inputs.
+
+**Skills:**
+
+1. Defining functions with various argument types (positional, keyworded, default values)
+2. Importing and using built-in modules (math, datetime, random)
+3. Understanding how to use recursive functions
+4. Applying math concepts to real-world problems
+
+**Challenge Guidelines:**
+
+1. Your program should be written in Python.
+2. You can use any necessary libraries or modules beyond the ones specified.
+3. Be creative with your function and module applications!
+
+**Prerequisites:** Basic understanding of Python syntax, variables, data types, and control structures.
+
+**Review Process:**
+
+1. Participants will submit their programs for review.
+2. The review process will assess each milestone against the evaluation criteria listed above.
+3. Feedback will be provided on areas of improvement and best practices.
+4. Scores will be awarded based on the completeness and correctness of each milestone.
+
+Get ready to master functions and modules in Python!"
+"**Challenge Name:** ""Error Handling Showdown""
+
+**Objective:** Develop skills in handling errors and exceptions using Python's try-except blocks, raise custom exceptions, and utilize assert statements for debugging. Participants will learn to write robust code that can handle unexpected situations and provide meaningful error messages.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+In this challenge, you'll create a simple calculator program that takes user input and performs arithmetic operations (addition, subtraction, multiplication, division). The program should handle errors when:
+
+1. The user enters invalid input (e.g., non-numeric characters).
+2. The result of an operation is not a number (e.g., division by zero).
+3. The user tries to perform an operation with no arguments.
+
+You'll use try-except blocks and custom exceptions to catch these errors and provide meaningful error messages. Additionally, you'll utilize assert statements for debugging purposes.
+
+**Milestone Evaluation:**
+
+1. **Part 1:** Create a basic calculator program that takes user input and performs arithmetic operations.
+2. **Part 2:** Add try-except blocks to handle invalid input (non-numeric characters) and provide an error message.
+3. **Part 3:** Implement custom exceptions for division by zero and no arguments, with descriptive error messages.
+4. **Part 4:** Utilize assert statements to test the program's functionality and identify potential errors.
+
+**Skills:**
+
+1. Exception handling using try-except blocks
+2. Raising custom exceptions
+3. Assert statement usage for debugging
+
+**Challenge Guidelines:**
+
+* Use Python as the programming language.
+* Create a separate function for each arithmetic operation (addition, subtraction, multiplication, division).
+* Use descriptive variable names and comment your code to make it easy to understand.
+* Test your program thoroughly to ensure all error scenarios are handled correctly.
+
+**Prerequisites:** None
+
+**Review Process:**
+
+1. Your program will be reviewed based on the following criteria:
+	* Correctness (Does the program handle errors as expected?)
+	* Code quality (Is the code well-organized, readable, and maintainable?)
+	* Exception handling (Are custom exceptions raised correctly, and error messages are meaningful?)
+2. A score out of 10 will be assigned based on your performance.
+3. Feedback will be provided to help you improve your skills.
+
+**Get Ready:** Show off your error handling skills by completing this challenge!"
+"**Challenge Name:** ""Data Structure Explorer""
+
+**Objective:** Develop practical skills in working with Python's built-in data structures: lists, tuples, dictionaries, and sets. Learn how to effectively use these data structures to solve real-world problems.
+
+**Challenge Level:** Basics
+
+**Description:** In this challenge, you'll be given a scenario where you need to manage a collection of movie information using the four main data structures in Python: lists, tuples, dictionaries, and sets. Your task is to write Python code to create, manipulate, and analyze these data structures.
+
+**Milestone Evaluation:**
+
+1. **Data Structure Basics**: Create a list of 10 movies with their titles, genres, and ratings.
+	* Criteria for evaluation:
+		+ List creation
+		+ Indexing and slicing demonstrated
+2. **Dictionary Mastery**: Create a dictionary that maps movie titles to their respective genres.
+	* Criteria for evaluation:
+		+ Dictionary creation
+		+ Key-value pairing demonstrated
+		+ Iteration through the dictionary using `for` loops or `dict.items()`
+3. **Set Operations**: Perform union, intersection, and difference operations on sets of movie genres.
+	* Criteria for evaluation:
+		+ Set creation
+		+ Union, intersection, and difference operations demonstrated
+4. **Real-World Problem-Solving**: Use the data structures to solve a real-world problem: creating a movie recommendation system that suggests movies based on user preferences.
+
+**Skills:** By completing this challenge, you'll develop skills in:
+
+* Creating, indexing, slicing, and manipulating lists and tuples
+* Working with dictionaries (keys, values, iterating)
+* Performing set operations (union, intersection, difference, symmetric difference)
+* Solving real-world problems using data structures
+
+**Challenge Guidelines:**
+
+1. Use Python as your programming language.
+2. Write clear and concise code.
+3. Follow best practices for coding style and naming conventions.
+4. Document your thought process and the reasoning behind your solutions.
+
+**Prerequisites:** Basic understanding of Python syntax, data types, and control structures.
+
+**Review Process:**
+
+1. Code review: A peer-reviewed assessment of your code's logic, readability, and effectiveness in solving the problem.
+2. Functional testing: Automated tests to ensure your code produces the expected output.
+3. Feedback: Receive constructive feedback on your code, highlighting areas for improvement and suggestions for optimization.
+
+**Time Limit:** 2 hours
+
+**Submission Guidelines:** Upload your Python code as a single file (e.g., `movie_recommendation.py`) along with a brief written explanation of your solution and any notable design decisions."
+"**Challenge:** ""File Handling Frenzy""
+
+**Objective:** Master the basics of file handling in Python by reading, writing, and manipulating files using built-in functions (open(), readlines(), writelines()) and the csv module. Participants will learn how to work with various file modes and understand error handling techniques.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+As a beginner Python developer, you're tasked with creating a simple inventory management system that allows users to store, retrieve, and manipulate data in CSV files. Your challenge is to develop a program that can:
+
+1. Read an existing CSV file containing product information (product ID, name, price).
+2. Add new products to the CSV file.
+3. Search for specific products by name or ID.
+4. Update product prices.
+
+To complete this challenge, you'll need to utilize Python's built-in file handling functions and the csv module. You'll also learn how to work with different file modes (e.g., read, write, append) and understand common errors that can occur when working with files.
+
+**Milestone Evaluation:**
+
+1. Read an existing CSV file without errors.
+2. Write new products to the CSV file without overwriting existing data.
+3. Search for specific products by name or ID using Python's built-in string methods (e.g., str.find(), str.contains()).
+4. Update product prices in the CSV file.
+
+**Skills:**
+
+* File handling basics with open(), readlines(), writelines()
+* Using the csv module to work with CSV files
+* Understanding file modes (read, write, append)
+* Error handling techniques for common file-related issues
+
+**Challenge Guidelines:**
+
+1. Start by reading an existing CSV file using the csv module.
+2. Implement a function to add new products to the CSV file without overwriting existing data.
+3. Create a search function that allows users to find specific products by name or ID.
+4. Update product prices in the CSV file.
+
+**Prerequisites:**
+
+1. Basic understanding of Python syntax and data types
+2. Familiarity with string methods (e.g., str.find(), str.contains())
+
+**Review Process:**
+
+1. Participants will submit their code as a single Python file.
+2. The review process will evaluate the code based on the milestones listed above, including:
+	* Correctness: Does the code read, write, and manipulate files correctly?
+	* Efficiency: Is the code efficient in terms of file handling and searching?
+	* Code quality: Is the code well-organized, readable, and maintainable?
+
+**Scoring Method:**
+
+1. 10 points for completing all milestones correctly
+2. 5 points for partially completing one or more milestones
+3. 0 points for not meeting any of the milestones
+
+**Time Limit:** 120 minutes (2 hours)
+
+By completing this challenge, you'll gain hands-on experience with file handling in Python and develop essential skills for working with various file formats."
+"Here's a real-world based challenge on Basic Data Analysis with Python:
+
+**Challenge Name:** Analyzing Movie Ratings
+
+**Objective:** To analyze movie ratings data from various sources, including CSV files and SQLite databases, using Python libraries such as pandas and sqlite3. Participants will learn to import, manipulate, filter, group, sort, and calculate basic statistics related to the movie ratings.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+You've been tasked with analyzing a collection of movie ratings from different sources, including CSV files and SQLite databases. Your goal is to use Python's pandas library to import and manipulate this data, as well as utilize sqlite3 to access a SQL database containing additional information about the movies.
+
+You'll start by importing the movie ratings data from multiple CSV files into a single Pandas DataFrame. Then, you'll filter the data to only include movies with at least 1000 user ratings. Next, group the remaining data by genre and calculate the average rating for each genre. Finally, sort the results in descending order of average rating.
+
+In addition, you'll use sqlite3 to access a SQL database containing information about the movies, such as their titles, release years, and directors. You'll then join this data with your original movie ratings DataFrame using pandas' merge function.
+
+**Milestone Evaluation:**
+
+1. **Importing Data**: Participants must successfully import the movie ratings data from multiple CSV files into a single Pandas DataFrame.
+2. **Filtering Data**: Participants must filter the data to only include movies with at least 1000 user ratings.
+3. **Grouping and Calculating Average Rating**: Participants must group the remaining data by genre and calculate the average rating for each genre.
+4. **Sorting Results**: Participants must sort the results in descending order of average rating.
+5. **Joining Data**: Participants must join the movie information from the SQLite database with their original movie ratings DataFrame using pandas' merge function.
+
+**Skills:**
+
+* Importing data from CSV files using pandas
+* Manipulating and filtering data using pandas
+* Grouping and aggregating data using pandas
+* Sorting and indexing data using pandas
+* Accessing and querying SQL databases using sqlite3
+* Joining data from multiple sources using pandas
+
+**Challenge Guidelines:**
+
+1. Use the pandas library to import and manipulate the movie ratings data.
+2. Use sqlite3 to access the movie information database.
+3. Make sure to handle any errors that may occur during data manipulation or querying.
+4. Write clear, concise, and readable code.
+
+**Prerequisites:**
+
+* Basic understanding of Python programming
+* Familiarity with pandas and sqlite3 libraries
+
+**Review Process:**
+
+1. Participants will submit their code as a Jupyter Notebook or a Python script.
+2. The submitted code will be evaluated based on the milestones outlined above.
+3. A scoring system will be used to assess participants' work, taking into account factors such as code readability, efficiency, and accuracy.
+
+By completing this challenge, you'll develop essential skills in data analysis using Python's pandas library and sqlite3 database management system."
+"Here's a real-world based challenge on the subtopic 9. Basic Python Testing:
+
+**Challenge Name:** ""Testing Times: Unit Testing Simple Functions""
+
+**Objective:** To learn the basics of unit testing in Python using the unittest module, write test cases for simple functions, and understand how to use test runners and suites.
+
+**Challenge Level:** Basics
+
+**Description:** As a Python developer, you're about to embark on a journey to write robust code. But before you can do that, you need to make sure your functions are working correctly! In this challenge, you'll learn the basics of unit testing in Python using the unittest module. You'll write test cases for simple functions and understand how to use test runners and suites.
+
+**Milestone Evaluation:**
+
+* **Milestone 1:** Complete a basic test case for a simple function (10 points)
+* **Milestone 2:** Write at least three test cases for a given function (20 points)
+* **Milestone 3:** Run the test suite using a test runner and identify any errors or failures (30 points)
+
+**Criteria:**
+
+* Code is readable, maintainable, and follows best practices
+* Test cases cover different scenarios and edge cases
+* Test suite runs without errors or failures
+
+**Skills:**
+
+* Understanding of unit testing concepts in Python
+* Ability to write test cases for simple functions
+* Familiarity with the unittest module and its usage
+* Knowledge of how to use test runners and suites
+
+**Challenge Guidelines:**
+
+* Use the provided code snippets as a starting point
+* Focus on writing clear, concise, and well-structured test cases
+* Use the unittest module to write your tests
+* Run the test suite using a test runner (e.g., unittest.main())
+* Be prepared to troubleshoot any errors or failures
+
+**Prerequisites:**
+
+* Basic understanding of Python programming concepts
+* Familiarity with the concept of unit testing
+* Access to a Python environment and IDE (optional)
+
+**Review Process:**
+
+* Participants will submit their code for review
+* The challenge owner will review each submission based on the criteria outlined above
+* Feedback will be provided in the form of comments or ratings
+* A score will be assigned based on the participant's performance
+
+Get ready to test your way to coding mastery!"
+"Here's a real-world based challenge on writing docstrings for functions and modules:
+
+**Challenge: ""Documentation Dynamo""**
+
+**Objective:** Write clear and concise docstrings for a set of Python functions and modules, while learning to use Sphinx to generate API documentation. This challenge aims to help participants develop essential skills in documenting code effectively.
+
+**Challenge Level:** Basics
+
+**Description:** As a junior developer at a startup, you've been tasked with creating a comprehensive API documentation for your team's new project. You have a set of Python functions and modules that need docstrings written for them. Additionally, you'll use Sphinx to generate an HTML-based API documentation.
+
+**Milestone Evaluation:**
+
+1. Write docstrings for 3-5 Python functions (30 points)
+	* Criteria:
+		+ Docstrings are concise and descriptive
+		+ Follow PEP 257 guidelines
+		+ Include examples or usage notes where applicable
+2. Generate API documentation using Sphinx (20 points)
+	* Criteria:
+		+ Documentation is well-organized and easy to navigate
+		+ Function docstrings are properly referenced in the API docs
+		+ No errors or warnings in the generated documentation
+3. Write a short reflection on what you learned about documenting code (10 points)
+	* Criteria:
+		+ Clearly articulates key takeaways from the challenge
+		+ Provides specific examples or insights gained during the process
+
+**Skills:**
+
+* Writing effective docstrings for Python functions and modules
+* Using Sphinx to generate API documentation
+* Understanding PEP 257 guidelines for docstring writing
+* Developing skills in code organization and navigation
+
+**Challenge Guidelines:**
+
+1. Complete all tasks within the allotted timeframe.
+2. Use a Python IDE or text editor of your choice to write the docstrings.
+3. Install Sphinx and use it to generate API documentation according to its documentation.
+4. Ensure that your documentation is accurate, complete, and follows best practices.
+
+**Prerequisites:**
+
+1. Basic understanding of Python programming
+2. Familiarity with a Python IDE or text editor
+3. Access to Sphinx installation (free)
+
+**Review Process:**
+
+1. Participants will submit their docstrings and API documentation as a single ZIP file.
+2. The submission will be reviewed based on the milestone evaluation criteria.
+3. Feedback will be provided in the form of a written review, highlighting strengths and areas for improvement.
+
+By completing this challenge, participants will gain practical experience in writing clear and concise docstrings, as well as generating API documentation using Sphinx. This challenge is designed to help junior developers develop essential skills in code documentation, making them more effective and efficient in their work."
+"**Challenge:** ""Python Pioneer""
+
+**Objective:** To understand the history and evolution of Python, its features and benefits, and compare it with other programming languages at a basic level. Participants will learn to identify the key advantages and applications of Python.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+In this challenge, you'll embark on a journey through the world of Python, exploring its origins, growth, and modern-day relevance. You'll analyze the features that make Python unique and compare it with other programming languages like Java, C++, and JavaScript. Your mission is to create a presentation that showcases the history and evolution of Python, highlighting its benefits and use cases.
+
+**Milestone Evaluation:**
+
+1. **History of Python**: Provide a brief overview of Python's creation, early development, and significant milestones (30 points).
+2. **Features and Benefits**: Identify and describe at least three key features and benefits of Python (40 points).
+3. **Comparison with Other Languages**: Compare Python with at least two other programming languages in terms of syntax, functionality, and use cases (30 points).
+
+**Skills:**
+
+* Understanding the history and evolution of Python
+* Identifying the key features and benefits of Python
+* Comparing Python with other programming languages
+
+**Challenge Guidelines:**
+
+1. Create a presentation using a tool of your choice (e.g., PowerPoint, Google Slides, Keynote).
+2. Include at least three slides covering the history of Python, its features and benefits, and comparison with other languages.
+3. Use clear and concise language in your presentation.
+4. Incorporate relevant images, diagrams, or charts to illustrate your points.
+
+**Prerequisites:**
+
+1. Basic understanding of programming concepts
+2. Familiarity with at least one programming language (not necessarily Python)
+
+**Review Process:**
+
+1. Presentations will be reviewed based on the milestones outlined above.
+2. A scoring rubric will assess the clarity, accuracy, and completeness of your presentation.
+3. Feedback will focus on areas for improvement and suggestions for future development.
+
+By completing this challenge, you'll gain a deeper understanding of Python's history, features, and applications, as well as develop skills in research, analysis, and communication."
+"**Challenge Name:** ""Python Pioneer""
+
+**Objective:** Set up a Python environment on different platforms (Windows, Mac, Linux) and configure the interpreter to create a virtual environment for beginners. This challenge aims to teach participants how to install Python, set up their coding environment, and create a virtual environment using Python's `venv` module.
+
+**Challenge Level:** Basics
+
+**Description:** Participants will set up a Python environment on one of three platforms: Windows, Mac, or Linux. They will then configure the Python interpreter by creating a virtual environment using the `venv` module. The challenge requires participants to:
+
+1. Install Python on their chosen platform (Windows, Mac, or Linux).
+2. Create a new directory for the project and navigate into it.
+3. Use the command line to create a virtual environment using the `python -m venv myenv` command (or equivalent for Windows).
+4. Activate the virtual environment and verify that Python is running correctly within the environment.
+
+**Milestone Evaluation:**
+
+1. Participants must demonstrate successful installation of Python on their chosen platform.
+2. The participant's virtual environment must be created and activated correctly, as evidenced by a Python interpreter running within the environment.
+3. The participant must provide evidence of the virtual environment's activation (e.g., output from `python --version` or `pip --version` commands).
+
+**Skills:**
+
+1. Platform-specific installation and configuration of Python
+2. Basic understanding of virtual environments using `venv`
+3. Command-line interaction for creating and activating virtual environments
+
+**Challenge Guidelines:**
+
+* Participants must work on their chosen platform (Windows, Mac, or Linux).
+* Use the official Python documentation as a reference for installing and configuring Python.
+* The participant's virtual environment should be created in a new directory specifically designated for this challenge.
+
+**Prerequisites:** None
+
+**Review Process:**
+
+1. Participants will submit a ZIP file containing:
+	* A screenshot of their Python installation process (Windows, Mac, or Linux).
+	* Evidence of the successful creation and activation of the virtual environment (e.g., output from `python --version` or `pip --version` commands).
+2. The review process will evaluate participant submissions based on the milestones outlined above.
+3. Feedback will be provided to participants in the form of comments, suggestions for improvement, or scores (if applicable).
+
+**Additional Tips:**
+
+* Participants are encouraged to use online resources, such as Python's official documentation and tutorials, to aid their installation and configuration process.
+* Be mindful of platform-specific installation instructions and package managers (e.g., `pip` on Windows vs. `pip3` on macOS).
+* Keep track of your work by taking screenshots or keeping a record of the steps taken during the challenge.
+
+By completing this challenge, participants will gain hands-on experience setting up Python environments on different platforms, configuring the interpreter, and creating virtual environments using `venv`. This challenge is designed to help beginners develop essential skills in installing and configuring Python for their future coding projects."
+"**Challenge Name:** ""Weather Wisdom""
+
+**Objective:** Develop basic Python skills by creating a simple weather tracking system that can predict whether it's going to be sunny, cloudy, or rainy based on temperature and humidity levels.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+As a beginner in the field of Python programming, you'll create a simple weather tracking system that takes into account temperature (°C) and humidity levels (%). The system should output a message indicating whether it's going to be sunny, cloudy, or rainy. This challenge will test your understanding of basic syntax, data types, conditional statements, and loops.
+
+**Milestone Evaluation:**
+
+1. **Setup:** Participants must set up a Python environment with the necessary libraries (e.g., `random`) and create a function to generate random temperature and humidity values.
+2. **Weather Prediction:** Participants will write a program that takes the temperature and humidity levels as input, applies conditional statements (if/else) to determine the weather condition based on the given values. The output should be a message indicating whether it's sunny, cloudy, or rainy.
+
+Evaluation criteria:
+
+* Correct implementation of conditional statements
+* Appropriate use of data types (e.g., numbers, booleans)
+* Functional program that produces expected outputs
+
+**Skills:**
+
+1. Basic syntax and data types (strings, numbers, booleans, lists, dictionaries)
+2. Operators and expressions
+3. Conditional statements (if/else)
+4. Loops (for/while)
+
+**Challenge Guidelines:**
+
+1. Participants must write a Python program that meets the weather prediction requirements.
+2. Use random values for temperature and humidity levels within reasonable ranges (e.g., 0-50°C, 0-100%).
+3. Output messages should be concise and descriptive, indicating whether it's sunny, cloudy, or rainy.
+
+**Prerequisites:**
+
+1. Basic understanding of Python programming concepts
+2. Familiarity with conditional statements (if/else) and loops (for/while)
+
+**Review Process:**
+
+1. Participants submit their Python code for review.
+2. The submission will be evaluated based on the milestones mentioned above.
+3. Feedback will be provided highlighting areas of improvement, best practices, and suggestions for future growth.
+
+Get ready to test your weather wisdom!"
+"**Challenge Name:** ""Modularize Your Meal Planner""
+
+**Objective:** Create a Python program that uses functions and modules to manage meal planning for a busy individual. Participants will learn how to define and call their own functions, import and use existing modules, and create their own modules to organize and simplify the meal planning process.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+As a busy professional, you want to plan your meals in advance but find it difficult to keep track of recipes, ingredients, and schedules. Create a Python program that uses functions and modules to manage meal planning for a busy individual like yourself. The program should:
+
+1. Define functions to:
+	* Add new recipes with ingredients and cooking instructions
+	* Plan daily meals based on available ingredients and dietary restrictions
+	* Generate a shopping list of missing ingredients
+2. Import and use the `datetime` module to schedule meal planning sessions
+3. Create your own `meal_planner` module with functions for:
+	* Checking if a recipe is suitable for a given day (e.g., considering ingredient availability)
+	* Generating a weekly meal plan based on available recipes and dietary restrictions
+
+**Milestone Evaluation:**
+
+1. Define at least 3 functions in the main program
+2. Implement the `datetime` module to schedule meal planning sessions
+3. Create the `meal_planner` module with 2-3 functions as described above
+4. Demonstrate the ability to call and use the defined functions to plan meals and generate a shopping list
+
+**Skills:**
+
+* Defining and calling custom functions
+* Importing and using existing modules (e.g., `datetime`)
+* Creating and using own modules
+* Organizing code with logical structure and comments
+
+**Challenge Guidelines:**
+
+1. Use Python 3.x for this challenge.
+2. Include a main program that defines the above-mentioned functions and uses them to plan meals.
+3. Ensure your `meal_planner` module is well-documented with docstrings and comments.
+4. Test your program with at least 5 different recipes and dietary restrictions.
+
+**Prerequisites:**
+
+1. Basic understanding of Python programming concepts
+2. Familiarity with functions, modules, and basic data structures (e.g., lists)
+
+**Review Process:**
+
+1. Participants will submit their code as a single Python file.
+2. Code will be reviewed based on the milestone evaluation criteria, focusing on functionality, organization, and documentation.
+3. A score of 0-5 will be assigned based on completeness, accuracy, and overall quality of the submission.
+
+By completing this challenge, participants will develop essential skills in defining and calling custom functions, importing and using existing modules, and creating their own modules to organize and simplify complex tasks."
+"**Challenge:** ""Animal Kingdom: Building a Zoo with OOP""
+
+**Objective:** Develop skills in creating classes and objects, using constructors and destructors, and understanding inheritance and polymorphism. Participants will create a simple zoo simulation program using Python.
+
+**Challenge Level:** Basics
+
+**Description:** The task is to build a basic zoo management system that can manage different types of animals. The zoo should have various animal species, each with its unique characteristics (e.g., size, habitat, diet). Participants will create classes for animals and a zoo, implementing constructors and destructors to handle object creation and destruction. They will also explore inheritance by creating a superclass for animals and subclasses for specific species.
+
+**Milestone Evaluation:**
+
+1. **Animal Class**: Create an ""Animal"" class with attributes (name, size, habitat) and methods (eat(), sleep()).
+2. **Constructor and Destructor**: Implement a constructor to initialize animal objects and a destructor to release resources when an object is destroyed.
+3. **Inheritance**: Create subclasses for specific animal species (e.g., Lion, Elephant, Giraffe) that inherit attributes and methods from the ""Animal"" class.
+4. **Polymorphism**: Demonstrate polymorphism by creating a method in the ""Zoo"" class that can handle different types of animals.
+
+**Skills:**
+
+* Understanding classes and objects
+* Creating constructors and destructors
+* Implementing inheritance and polymorphism
+* Basic Python programming concepts
+
+**Challenge Guidelines:**
+
+1. Use Python 3.x as your programming language.
+2. Create a separate file for each class (e.g., animal.py, zoo.py).
+3. Follow PEP 8 coding conventions.
+4. Include comments explaining the code logic and design choices.
+
+**Prerequisites:** Basic understanding of Python programming concepts, familiarity with classes and objects in OOP.
+
+**Review Process:**
+
+1. Code review: Evaluate the participant's code for correctness, readability, and adherence to guidelines.
+2. Testing: Run the program to ensure it functions as intended, including testing different scenarios (e.g., creating animals, adding them to the zoo).
+3. Feedback: Provide constructive feedback on coding style, design choices, and any areas that need improvement.
+
+This challenge is designed to help participants develop a strong foundation in OOP concepts, specifically classes and objects, constructors and destructors, inheritance, and polymorphism. By applying these skills to a practical problem (building a zoo management system), participants will gain hands-on experience and confidence in their programming abilities."
+"**Challenge Name:** ""File Frenzy: Reading and Writing CSV Files""
+
+**Objective:** In this challenge, you will learn how to read and write files in Python using the csv module. You will work on a real-world scenario where you need to process and manipulate data from a CSV file.
+
+**Challenge Level:** Basics
+
+**Description:** Imagine you are working as a data analyst for a company that tracks employee attendance. Your task is to create a program that reads attendance records from a CSV file, processes the data, and writes the results to another CSV file. The CSV file contains columns for employee ID, date, and attendance status (present or absent).
+
+The challenge involves:
+
+* Reading the CSV file using the csv module
+* Processing the data by calculating the total number of days each employee was present
+* Writing the processed data to a new CSV file
+
+**Milestone Evaluation:**
+
+1. **Reading the File:** Participants must be able to read the CSV file and extract the necessary columns (employee ID, date, and attendance status).
+2. **Processing Data:** Participants must calculate the total number of days each employee was present based on their attendance records.
+3. **Writing the Results:** Participants must write the processed data to a new CSV file.
+
+Criteria for evaluation:
+
+* Accuracy: The output file should match the expected results (correct calculations and formatting).
+* Code Quality: The code should be readable, well-organized, and follow best practices.
+* Adaptability: Participants must demonstrate their ability to handle unexpected scenarios or errors in the input data.
+
+**Skills:**
+
+* Reading and writing files using Python
+* Using the csv module for working with CSV files
+* Processing and manipulating data
+* Calculating statistics (e.g., total number of days present)
+
+**Challenge Guidelines:**
+
+1. Use the csv module to read and write CSV files.
+2. Process the attendance records as described above.
+3. Handle any errors or exceptions that may occur during file operations or calculations.
+
+**Prerequisites:** Basic understanding of Python programming, including data types, variables, control structures, and functions.
+
+**Review Process:**
+
+1. Participants will submit their code as a Python script.
+2. The code will be reviewed for accuracy, code quality, and adaptability.
+3. Feedback will be provided on any areas that need improvement.
+4. A score will be assigned based on the criteria above (accuracy, code quality, and adaptability).
+
+By completing this challenge, participants will develop their skills in file input/output, data processing, and error handling. They will also gain practical experience working with CSV files using the csv module in Python."
+"Here is a real-world based challenge on exception handling:
+
+**Challenge Name:** ""Error-Free Shopping Experience""
+
+**Objective:** Create a Python program that simulates an online shopping experience, handling various exceptions and errors that may occur during the checkout process. This challenge will help participants understand how to use try/except blocks effectively and raise custom exceptions.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+Imagine you're building an e-commerce platform in Python, and you want to create a seamless checkout experience for customers. However, unexpected issues can arise, such as:
+
+* Invalid credit card numbers
+* Insufficient funds
+* Server errors
+* Missing or incomplete information
+
+In this challenge, your task is to design a program that uses try/except blocks to handle these exceptions and ensure the shopping experience remains error-free.
+
+**Milestone Evaluation:**
+
+1. **Exception Handling Basics:** Implement basic exception handling using try/except blocks for common issues like invalid credit card numbers and insufficient funds.
+2. **Custom Exception Raising:** Create custom exceptions for more complex scenarios, such as server errors or missing information.
+3. **Error Message Generation:** Develop a system to generate informative error messages that provide clear guidance to customers.
+
+**Skills:**
+
+* Understanding try/except blocks in Python
+* Creating and raising custom exceptions
+* Handling various types of errors and exceptions
+* Writing descriptive and informative error messages
+
+**Challenge Guidelines:**
+
+1. Your program should have the following components:
+	* A main function that simulates the checkout process
+	* Try/except blocks to handle different exceptions (e.g., invalid credit card numbers, insufficient funds)
+	* Custom exception classes for more complex scenarios
+2. Use descriptive variable names and clear code structure.
+3. Your program should be able to handle at least 5 different types of exceptions.
+
+**Prerequisites:**
+
+1. Familiarity with Python basics (data types, control structures, functions)
+2. Understanding of exception handling concepts
+
+**Review Process:**
+
+1. Code review: Assess the correctness and efficiency of your code.
+2. Error message evaluation: Evaluate the quality and clarity of error messages generated by your program.
+3. Exception handling effectiveness: Determine whether your try/except blocks effectively handle various exceptions.
+
+This challenge is designed to help participants develop their skills in exception handling, using try/except blocks, and raising custom exceptions. By completing this challenge, participants will gain a deeper understanding of how to create robust and error-free code."
+"**Challenge:** ""Text Manipulation Mastery""
+
+**Objective:** Master regular expression syntax and apply it to manipulate text in Python, improving your skills in text processing and string manipulation.
+
+**Challenge Level:** Basics
+
+**Description:** In this challenge, you'll be working with a dataset of customer reviews for various products. Your task is to use regular expressions to extract relevant information from the text data, such as extracting all mentions of specific product features or identifying positive/negative sentiment.
+
+**Milestone Evaluation:**
+
+1. **Initial Pattern Creation**: Participants must create and test their first regular expression pattern using Python's `re` module.
+2. **Text Manipulation**: Participants must use their regular expression pattern to extract relevant text data from the customer reviews dataset.
+3. **Pattern Refining**: Participants will refine their regular expression pattern based on feedback and iteration.
+
+**Skills:**
+
+* Understanding of regular expression syntax (characters, quantifiers, groups)
+* Using Python's `re` module for regular expression operations
+* Text manipulation techniques using regular expressions
+
+**Challenge Guidelines:**
+
+1. Use the provided dataset of customer reviews (available in CSV format).
+2. Create a new Python script to complete the challenge.
+3. Test and refine your regular expression pattern throughout the challenge.
+
+**Prerequisites:** Basic understanding of Python programming, familiarity with text manipulation concepts.
+
+**Review Process:**
+
+1. Initial submission review: Check for correct implementation of initial pattern creation and text manipulation.
+2. Feedback and scoring:
+	* Correctness (30%): Does the participant's code correctly implement the regular expression pattern?
+	* Effectiveness (40%): Does the participant's code effectively extract relevant text data from the dataset?
+	* Code quality (30%): Is the participant's code well-organized, readable, and maintainable?
+
+**Additional Tips:**
+
+* Start with simple tasks and gradually move to more complex ones.
+* Use online resources or documentation for regular expression syntax and Python's `re` module if needed.
+* Test your code thoroughly to ensure it works correctly.
+
+By completing this challenge, you'll gain hands-on experience in using regular expressions to manipulate text data, improving your skills in text processing and string manipulation."
+"Here's a real-world based challenge on the subtopic 9. Web Development:
+
+**Challenge Name:** ""Building a Simple Blog using Django""
+
+**Objective:** Create a simple blog application using Python's popular web framework, Django, that allows users to create, read, update, and delete (CRUD) blog posts.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+In this challenge, you will be tasked with building a simple blog application using Django. The application should have the following features:
+
+* Users can create new blog posts with a title, content, and date
+* Users can view all existing blog posts in a list
+* Users can view a specific blog post by its ID
+* Users can update an existing blog post
+* Users can delete a blog post
+
+You will need to create the necessary models, views, templates, and URLs to implement these features. You should also include basic authentication to prevent unauthorized access to the application.
+
+**Milestone Evaluation:**
+
+1. Set up a new Django project and define the models for your blog posts (10 points)
+2. Create the necessary views for CRUD operations on blog posts (20 points)
+3. Design and implement the templates for displaying blog post lists, individual posts, and update/deletion forms (30 points)
+4. Implement authentication to restrict access to sensitive routes (20 points)
+5. Deploy your application using a cloud platform or virtual environment (10 points)
+
+**Skills:**
+
+* Building a Django project from scratch
+* Defining models and implementing CRUD operations
+* Creating views and templates for a web application
+* Implementing basic authentication in Django
+* Deploying a Python web application
+
+**Challenge Guidelines:**
+
+1. Use the official Django documentation as a reference for building your application.
+2. You can use any Django version from 3.x onwards, but make sure to include it in your project's `requirements.txt` file.
+3. For deployment, you can choose either Google Cloud Platform or AWS. Make sure to follow the respective deployment guides.
+
+**Prerequisites:**
+
+1. Basic understanding of Python programming
+2. Familiarity with Django framework (optional, but recommended)
+
+**Review Process:**
+
+1. Participants will submit their project repository URL along with a written report describing their approach and decisions made during the challenge.
+2. The review panel will evaluate submissions based on the milestone criteria outlined above.
+3. Feedback will be provided to participants in the form of code reviews and constructive criticism.
+
+This challenge is designed to help you develop your skills in building a simple web application using Django, while also introducing you to some of the basics of web development with Python. Good luck!"
+"Here is a real-world based challenge on the subtopic 10. Data Analysis and Visualization:
+
+**Challenge:**
+
+**Name:** ""Analyzing Stock Market Trends""
+
+**Objective:** To analyze and visualize stock market trends using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn. Participants will learn to work with different data structures (datasets, CSV files) and develop skills in data cleaning, visualization, and interpretation.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+In this challenge, participants will analyze a dataset of stock prices for various companies over the past year. The goal is to identify trends and patterns in the data using Python libraries. Participants will work with the following tasks:
+
+1. Load the dataset into a Pandas DataFrame and perform initial exploratory data analysis (EDA).
+2. Clean and preprocess the data by handling missing values, converting date columns to datetime format, and selecting relevant columns.
+3. Visualize the stock prices over time using Matplotlib and Seaborn, including line plots, bar charts, and scatter plots.
+4. Analyze the trends and patterns in the data, identifying correlations between stock prices and other factors (e.g., company size, industry sector).
+
+**Milestone Evaluation:**
+
+1. **Initial EDA:** Participants should demonstrate a basic understanding of the dataset by providing summary statistics, histograms, and box plots for key variables.
+2. **Data Cleaning:** Participants should show how they handled missing values, converted date columns to datetime format, and selected relevant columns.
+3. **Visualizations:** Participants should provide at least three different visualizations (line plot, bar chart, scatter plot) that effectively convey insights about the stock market trends.
+4. **Analysis:** Participants should provide a written summary of their findings, including any correlations or patterns they identified.
+
+**Skills:**
+
+* Working with Pandas DataFrames
+* Data cleaning and preprocessing
+* Visualization using Matplotlib and Seaborn
+* Data interpretation and analysis
+
+**Challenge Guidelines:**
+
+1. Use Python 3.x for the challenge.
+2. Load the dataset from a CSV file (provided).
+3. Follow standard data analysis and visualization best practices.
+4. Provide clear and concise explanations of your findings in the written summary.
+
+**Prerequisites:**
+
+* Basic knowledge of Python programming
+* Familiarity with Pandas, NumPy, Matplotlib, and Seaborn libraries
+
+**Review Process:**
+
+1. Participants will submit their work (code, visualizations, and written summary) through a designated platform.
+2. Reviewers will evaluate the submissions based on the milestone criteria, providing feedback and scoring.
+3. The final score will be determined by the reviewers' assessment of the participant's understanding of data analysis and visualization concepts.
+
+This challenge is designed to help participants develop practical skills in data analysis and visualization using Python libraries, while working with a real-world dataset related to stock market trends."
+"**Challenge Name:** ""Medical Diagnosis with Machine Learning""
+
+**Objective:** As a medical researcher, you are tasked with developing a machine learning model to diagnose various diseases based on patient data. This challenge will introduce you to the basics of machine learning using Python and popular libraries like scikit-learn.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+You have been provided with a dataset containing information about patients, including their symptoms, medical history, and test results. Your task is to develop a machine learning model that can accurately diagnose diseases based on this data. You will work with three types of data:
+
+1. Supervised Learning: Diagnose patients with known disease labels (e.g., diabetes vs. not).
+2. Unsupervised Learning: Identify patterns in the data to group patients with similar characteristics.
+3. Reinforcement Learning: Develop a model that recommends treatment options based on patient outcomes.
+
+**Milestone Evaluation:**
+
+1. **Data Exploration**: Evaluate participant's ability to import and explore the dataset, including data visualization and summarization.
+2. **Model Development**: Assess participants' creation of a machine learning model for each type of data (supervised, unsupervised, reinforcement).
+3. **Model Evaluation**: Review participants' evaluation of their models, including metrics such as accuracy, precision, recall, F1-score, and mean squared error.
+
+**Skills:**
+
+* Introduction to machine learning with Python
+* Familiarity with scikit-learn library
+* Understanding of supervised, unsupervised, and reinforcement learning concepts
+* Ability to work with different types of data (e.g., numerical, categorical)
+* Basic programming skills in Python
+
+**Challenge Guidelines:**
+
+1. Use the provided dataset for this challenge.
+2. Develop a separate model for each type of data (supervised, unsupervised, reinforcement).
+3. Provide clear documentation and explanations of your models and findings.
+4. Focus on developing accurate and interpretable models.
+
+**Prerequisites:**
+
+* Basic understanding of Python programming
+* Familiarity with machine learning concepts
+
+**Review Process:**
+
+1. Participants will submit their code and written reports for review.
+2. The challenge committee will evaluate each milestone based on the provided criteria.
+3. Feedback will be given in the form of comments, suggestions, and ratings (e.g., 1-5 stars).
+4. A final score will be calculated based on the participant's overall performance.
+
+By completing this challenge, participants will develop skills in machine learning with Python, including working with different types of data and using popular libraries like scikit-learn. This challenge is designed to help participants grow professionally by applying theoretical concepts to real-world problems."
+"**Challenge: ""Regex Mastermind""**
+
+**Objective:** Develop advanced regular expression skills by creating a text processor using lookaheads, backreferences, and generators. Participants will learn how to use these features effectively and apply them to real-world problems.
+
+**Challenge Level:** Basics
+
+**Description:** As the lead developer of a popular text processing library, you've been tasked with creating a new feature that uses advanced regular expression techniques. Your goal is to write a program that takes in a string input and outputs all the substrings that match a specific pattern using lookaheads and backreferences.
+
+The pattern should be defined as follows:
+
+* The input string will contain one or more instances of the phrase ""([A-Z]+) ([0-9]+)"" (e.g., ""ABC 123"", ""DEF 456"", etc.).
+* Each instance should have a unique identifier (captured by a lookahead assertion).
+* The output should be a list of substrings, where each substring represents an instance of the pattern.
+
+To make things more interesting, you'll need to use generators and iterators to process the input string in chunks and avoid loading too much data into memory at once.
+
+**Milestone Evaluation:**
+
+1. **Pattern Definition**: Define the regular expression pattern using lookaheads and backreferences that matches the specified format.
+2. **Generator Implementation**: Implement a generator function that processes the input string in chunks, using iterators to iterate over the input string.
+3. **Pattern Matching**: Use the defined pattern to match substrings in the input string, and return the matched instances as a list.
+
+**Skills:**
+
+* Advanced regular expression topics (lookaheads, backreferences)
+* Generators and iterators
+* Text processing and parsing
+
+**Challenge Guidelines:**
+
+1. The input string will be provided as a file or a string variable.
+2. You can use any Python libraries or modules necessary for the challenge.
+3. Your program should be able to handle input strings of varying lengths.
+4. You must use generators and iterators to process the input string in chunks.
+
+**Prerequisites:**
+
+1. Basic understanding of regular expressions
+2. Familiarity with Python programming language
+
+**Review Process:**
+
+1. **Code Review**: Review the participant's code for correctness, efficiency, and adherence to the challenge guidelines.
+2. **Functionality Testing**: Test the participant's program using a set of test inputs to ensure it matches the expected output.
+3. **Scoring**: Assign points based on the participant's solution, considering factors such as complexity, creativity, and overall quality.
+
+**Challenge Tips:**
+
+* Start by defining the regular expression pattern and testing it separately from the generator implementation.
+* Use Python's built-in `re` module to work with regular expressions.
+* Consider using a debugger or print statements to help you identify any issues with your program."
+"Here's a real-world based challenge on the subtopic 1. **Introduction to Python**:
+
+**Challenge: ""Python Pioneer""**
+
+**Objective:** Learn the basics of Python programming, including its history, advantages, versions, and IDEs, while creating a simple calculator program.
+
+**Challenge Level:** Basics
+
+**Description:** As a pioneer in the field of programming, you're tasked with exploring the world of Python. Your mission is to create a simple calculator program that can perform basic arithmetic operations like addition, subtraction, multiplication, and division. You'll learn about the history of Python, its advantages, and the different versions available. You'll also get familiar with popular Python Integrated Development Environments (IDEs) and set up your own development environment.
+
+**Milestone Evaluation:**
+
+1. **Python Basics**: Complete a simple ""Hello World"" program in Python to demonstrate understanding of basic syntax.
+2. **Calculator Program**: Create a calculator program that can perform the four basic arithmetic operations (+, -, x, /).
+3. **IDE Familiarity**: Set up and familiarize yourself with a popular Python IDE (e.g., PyCharm, Visual Studio Code, Spyder).
+
+**Skills:**
+
+* Understanding of Python's history and advantages
+* Basic syntax and structure of Python programming
+* Familiarity with different Python versions and their features
+* Ability to set up and use a Python Integrated Development Environment (IDE)
+* Problem-solving skills in creating a simple calculator program
+
+**Challenge Guidelines:**
+
+1. Use an online IDE or download and install a Python IDE on your computer.
+2. Start by completing the ""Hello World"" program to get familiar with Python syntax.
+3. Design and implement the calculator program, following best practices for coding and commenting.
+4. Test your program thoroughly to ensure it works correctly.
+
+**Prerequisites:**
+
+1. Basic understanding of programming concepts
+2. Familiarity with computer programming terminology
+
+**Review Process:**
+
+1. Review your ""Hello World"" program for correct syntax and logic.
+2. Evaluate your calculator program based on functionality, readability, and commenting.
+3. Provide feedback on code organization, naming conventions, and overall structure.
+
+This challenge is designed to help participants develop a solid foundation in Python programming, including its history, advantages, and basics. By creating a simple calculator program, they'll learn problem-solving skills and gain experience with popular IDEs."
+"**Challenge Name:** ""Python Basics Bootcamp""
+
+**Objective:** To learn and apply fundamental Python syntax and structure concepts, focusing on variables, data types, operators, control structures, and functions. By completing this challenge, participants will develop a solid foundation in Python programming and be able to write effective code.
+
+**Challenge Level:** Basics
+
+**Description:** Imagine you're building a simple weather monitoring system using Python. You'll need to create variables for temperature, humidity, and wind speed, then use operators to perform calculations and make decisions based on the data. You'll also learn how to define and call functions to simplify your code and improve its reusability.
+
+**Milestone Evaluation:**
+
+1. **Variables and Data Types:** Create a Python script that declares variables for temperature (integer), humidity (float), and wind speed (string) and assigns values to them.
+	* Criteria: Correct variable declaration, correct data types, and assignment of values.
+2. **Operators and Control Structures:** Write a script that uses arithmetic operators (+, -, \*, /) to calculate the average temperature, and then use an if-else statement to determine whether the temperature is above or below a certain threshold (e.g., 20°C).
+	* Criteria: Correct operator usage, correct control structure implementation, and logical decision-making.
+3. **Functions:** Define a function that takes two integer arguments and returns their sum, then call this function with different input values.
+	* Criteria: Correct function definition, correct argument handling, and accurate return value calculation.
+
+**Skills:**
+
+1. Python syntax basics
+2. Variable declaration and data type usage
+3. Operator usage (arithmetic, comparison, logical)
+4. Control structure implementation (if-else, for, while)
+5. Function definition and calling
+
+**Challenge Guidelines:**
+
+1. Use the Python 3.x interpreter.
+2. Write your code in a single file named ""weather_monitor.py"".
+3. Each milestone should be completed in separate sections of the same file.
+
+**Prerequisites:** Familiarity with basic programming concepts, such as variables, data types, and control structures.
+
+**Review Process:**
+
+1. Code review: Check for syntax errors, logical consistency, and adherence to challenge guidelines.
+2. Feedback: Provide constructive feedback on code organization, commenting, and overall coding style.
+3. Scoring: Award points based on the number of milestones completed correctly (out of 3).
+
+By completing this ""Python Basics Bootcamp"" challenge, participants will gain hands-on experience with fundamental Python concepts, laying a solid foundation for more advanced programming topics."
+"**Challenge Name:** ""Ordering System""
+
+**Objective:** Design a Python program to manage orders in a fictional coffee shop. The program should handle nested if-else statements, for-loops, break, and continue statements to efficiently process customer orders.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+You are the lead developer at ""Brew-Tiful Days"" coffee shop, responsible for designing an ordering system that can handle multiple customers placing orders simultaneously. The system should be able to:
+
+1. Accept customer names and their preferred drinks (coffee, tea, or juice).
+2. Check if the ordered drink is available in stock.
+3. If not available, suggest alternatives based on customer preferences.
+4. Process payment for each order.
+
+**Milestone Evaluation:**
+
+To pass this challenge, participants must complete the following milestones:
+
+1. Create a function to accept customer information and store it in a dictionary.
+2. Implement nested if-else statements to check drink availability and suggest alternatives when necessary.
+3. Use a for-loop to iterate through orders and process payments.
+4. Incorporate break and continue statements to handle exceptions and optimize the ordering process.
+
+**Skills:**
+
+* Nested if-else statements
+* For-loops
+* Break and continue statements
+* Dictionary manipulation
+* Conditional logic
+
+**Challenge Guidelines:**
+
+1. Create a Python script with a main function that represents the coffee shop's ordering system.
+2. Use dictionaries to store customer information (name, preferred drink) and drink availability (coffee, tea, or juice).
+3. Implement nested if-else statements to check drink availability and suggest alternatives when necessary.
+4. Use a for-loop to iterate through orders and process payments.
+5. Incorporate break and continue statements to handle exceptions and optimize the ordering process.
+
+**Prerequisites:**
+
+* Basic understanding of Python programming
+* Familiarity with dictionaries, lists, and conditional logic
+
+**Review Process:**
+
+1. Participants will submit their Python script as a ZIP file or GitHub repository link.
+2. The review process will evaluate code quality, functionality, and adherence to the challenge guidelines.
+3. Feedback will be provided on code organization, commenting, and overall presentation.
+4. A score will be assigned based on the completeness and accuracy of the solution.
+
+**Note:** This challenge is designed for beginners and intermediate Python programmers looking to improve their control flow skills."
+"**Challenge:** ""Data Structure Dynamics""
+
+**Objective:** Develop a solid understanding of Python's basic data structures (lists, tuples, dictionaries) by solving practical problems and creating real-world applications.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+As a programmer, it's essential to master the fundamental data structures in Python. In this challenge, you'll work with lists, tuples, and dictionaries to create solutions for everyday programming tasks. You'll learn how to manipulate these data structures using various operations, indexing, slicing, and comprehensions.
+
+Your goal is to complete five tasks that demonstrate your understanding of each data structure's strengths and limitations. Each task will require you to write Python code that solves a specific problem or creates a particular application.
+
+**Milestone Evaluation:**
+
+1. **Task 1-2 Completion:** Complete the first two tasks, demonstrating basic understanding of lists and tuples.
+	* Criteria: Correctly implemented list comprehensions, indexing, and slicing; accurate use of tuple operations (e.g., indexing, slicing).
+2. **Task 3-4 Completion:** Finish the next two tasks, showcasing dictionary usage and manipulation.
+	* Criteria: Properly created and modified dictionaries; effective use of key-value pairs, looping through dictionaries.
+3. **Final Task Completion:** Complete the final task, combining data structures to solve a complex problem.
+	* Criteria: Correctly applied list, tuple, and dictionary operations to achieve the desired outcome.
+
+**Skills:**
+
+1. Understanding of lists, tuples, and dictionaries in Python
+2. Familiarity with basic operations (e.g., indexing, slicing, comprehensions)
+3. Ability to manipulate data structures for specific applications
+4. Knowledge of immutability in tuples and dictionaries
+
+**Challenge Guidelines:**
+
+1. Use Python 3.x as your development environment.
+2. Write clean, readable code that follows best practices.
+3. Each task should be completed independently before moving on to the next one.
+4. Test your code thoroughly to ensure it produces the expected output.
+
+**Prerequisites:** Basic understanding of Python syntax and programming concepts (e.g., variables, control structures, functions).
+
+**Review Process:**
+
+1. **Task Submission:** Participants submit their code for each task as a single file or GitHub repository link.
+2. **Automated Testing:** Code is run through automated tests to verify correctness and output.
+3. **Manual Review:** A panel of reviewers assesses the submitted code based on the provided criteria, providing feedback and scoring.
+4. **Score Calculation:** Scores are calculated based on task completion, code quality, and overall understanding of data structures.
+
+**Scoring:**
+
+* Task completion (40%): 1 point for each completed task
+* Code quality (30%): 1-3 points based on code readability, maintainability, and adherence to best practices
+* Data structure mastery (30%): 1-3 points based on demonstrated understanding of lists, tuples, and dictionaries
+
+**Challenge Reward:** Participants who achieve a score of 80% or higher will receive a certificate of completion and a badge indicating their proficiency in Python's basic data structures."
+"**Challenge:** ""Data Logger: Storing Python Projects in Files""
+
+**Objective:** Learn how to efficiently store and manage your Python projects by using file handling techniques, including reading, writing, and appending data.
+
+**Challenge Level:** Basics
+
+**Description:** As a Python developer, you're working on multiple projects simultaneously. You need a way to keep track of your progress, notes, and code snippets for each project. In this challenge, you'll create a ""data logger"" that allows you to store and retrieve information about your projects using file handling techniques.
+
+Your goal is to design a system that can:
+
+1. Store project details (name, description, start date, end date) in a text file.
+2. Append new project notes and code snippets to the same file.
+3. Read and display existing project information from the file.
+
+**Milestone Evaluation:**
+
+* Milestone 1: Create a text file for storing project data (30 points).
+	+ Criteria: The file exists, has a meaningful name, and is properly formatted.
+* Milestone 2: Write project details to the file (20 points).
+	+ Criteria: The information is correctly formatted and written to the file.
+* Milestone 3: Append new notes and code snippets to the file (30 points).
+	+ Criteria: New data is appended correctly, and existing data remains intact.
+
+**Skills:**
+
+* Reading and writing text files in Python
+* Understanding of file modes (e.g., 'w', 'a')
+* Basic string manipulation techniques
+
+**Challenge Guidelines:**
+
+1. Use a Python script to create the data logger system.
+2. Design your file structure accordingly (e.g., separate files for each project or a single file with multiple sections).
+3. Ensure that your code is organized, readable, and well-commented.
+
+**Prerequisites:** Familiarity with basic Python syntax and concepts, including variables, data types, control structures, and functions.
+
+**Review Process:**
+
+1. Review the code submission for adherence to guidelines and completion of milestones.
+2. Evaluate the functionality and correctness of the file handling techniques used.
+3. Provide feedback on code organization, readability, and overall quality.
+
+By completing this challenge, you'll develop essential skills in Python file handling and learn how to efficiently manage your projects' data."
+"**Challenge Name:** ""Handling Exceptions like a Pro""
+
+**Objective:** Understand and apply exception handling concepts in Python, including custom exceptions, try-except blocks, and error handling best practices. Participants will learn how to design robust code that can handle unexpected errors and edge cases.
+
+**Challenge Level:** Basics
+
+**Description:** Imagine you're developing a simple banking application in Python. As the program interacts with users, it's essential to anticipate and handle potential errors that might occur during data processing or database queries. In this challenge, you'll learn how to create custom exceptions, use try-except blocks, and develop error handling strategies to ensure your code is robust and reliable.
+
+**Milestone Evaluation:**
+
+1. **Error Handling Fundamentals**: Participants will design a simple Python program with at least three try-except blocks to handle different types of errors (e.g., invalid input, file not found, division by zero).
+2. **Custom Exception Creation**: Participants will create a custom exception class and raise it in a specific scenario, demonstrating their understanding of error handling.
+3. **Error Handling Best Practices**: Participants will refactor their original program to incorporate best practices for error handling, such as logging errors, providing meaningful error messages, and using finally blocks.
+
+**Skills:**
+
+* Understanding of exceptions, try-except blocks, and custom exception creation in Python
+* Designing robust code with error handling strategies
+* Applying best practices for error handling in Python programs
+
+**Challenge Guidelines:**
+
+1. Create a new Python file (e.g., `banking_app.py`) to develop the challenge.
+2. Use the `try-except` block at least three times to handle different types of errors.
+3. Create a custom exception class and raise it in a specific scenario.
+4. Refactor your original program to incorporate best practices for error handling.
+
+**Prerequisites:** Familiarity with basic Python programming concepts, including data types, variables, control structures, and functions.
+
+**Review Process:**
+
+1. Participants will submit their Python file ( `banking_app.py` ) as a ZIP archive or GitHub link.
+2. The review process will assess the program's functionality, error handling strategies, and adherence to best practices.
+3. Feedback will be provided on code organization, readability, and overall quality.
+
+**Time Limit:** 2 hours
+
+**Additional Tips:**
+
+* Test your code thoroughly to ensure it handles errors correctly.
+* Use meaningful variable names and comments to explain your code.
+* Consider using logging libraries (e.g., `logging`) to log error messages.
+
+By completing this challenge, participants will develop a solid understanding of exception handling in Python and be able to design robust code that can handle unexpected errors."
+"**Challenge Name:** ""Building a Basic Banking System""
+
+**Objective:** Create a simple banking system using Python modules and packages. Participants will learn how to import built-in functions, create custom modules, and utilize them to solve real-world problems.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+You are tasked with creating a basic banking system that allows users to perform transactions (deposit, withdraw, check balance). The system should include the following features:
+
+1. User authentication using a simple password-based system.
+2. Account creation and management (including deposit, withdrawal, and balance inquiry).
+3. Transaction history tracking.
+
+To achieve this, you will need to use Python modules and packages to develop your banking system. You can import built-in functions from other modules to perform tasks like data validation and error handling.
+
+**Milestone Evaluation:**
+
+1. **User Authentication Module**: Create a custom module for user authentication using a simple password-based system.
+	* Criteria for evaluation:
+		+ The module should include two functions: `authenticate_user()` and `get_password()`.
+		+ The `authenticate_user()` function should take a username and password as input, check if the password is correct, and return a boolean value indicating success or failure.
+		+ The `get_password()` function should retrieve the stored password for a given username.
+2. **Account Management Module**: Create a custom module for account management (including deposit, withdrawal, and balance inquiry).
+	* Criteria for evaluation:
+		+ The module should include three functions: `create_account()`, `perform_transaction()`, and `get_balance()`.
+		+ The `create_account()` function should create a new account with an initial balance of 0.
+		+ The `perform_transaction()` function should allow users to perform deposit, withdrawal, or check their balance.
+		+ The `get_balance()` function should return the current balance for a given account.
+
+**Skills:**
+
+* Importing modules and using built-in functions
+* Creating custom modules related to Python basics (e.g., data validation, error handling)
+* Understanding of basic programming concepts (e.g., variables, control structures, functions)
+
+**Challenge Guidelines:**
+
+1. Use Python 3.x as your primary development environment.
+2. Name your custom modules `auth` and `banking`.
+3. Keep your code organized using a consistent naming convention and clear comments.
+4. Test your code thoroughly to ensure it works correctly.
+
+**Prerequisites:**
+
+* Basic knowledge of Python programming
+* Familiarity with data types, control structures, functions, and modules in Python
+
+**Review Process:**
+
+1. Participants will submit their code for the two custom modules (`auth` and `banking`) as a single ZIP file.
+2. Reviewers will evaluate each module based on the criteria outlined above.
+3. A score will be assigned based on the completeness, accuracy, and effectiveness of the submitted code (out of 10).
+4. Feedback will be provided to participants highlighting areas for improvement and suggesting best practices.
+
+By completing this challenge, you will develop a strong foundation in using Python modules and packages to solve real-world problems. Good luck!"
+"**Challenge:** ""Mastering User Input and Formatting""
+
+**Objective:** Learn how to read user input using the `input()` function and apply basic formatting techniques using f-strings and the `format()` method in Python.
+
+**Challenge Level:** Basics
+
+**Description:** As a programmer, you'll often need to interact with users by reading their input and displaying formatted output. In this challenge, you'll practice collecting user input using the `input()` function and applying basic formatting techniques to create visually appealing outputs.
+
+**Milestone Evaluation:**
+
+1. **User Input Mastery**: Collect user input for at least 3 different types of data (strings, integers, floats) using the `input()` function.
+2. **Formatting Fundamentals**: Apply f-strings or the `format()` method to display formatted output for the following scenarios:
+	* Displaying a greeting with the user's name
+	* Calculating and displaying the total cost of items in a shopping cart
+3. **Error Handling**: Implement basic error handling using try-except blocks to handle invalid input (e.g., non-numeric input when expecting an integer).
+
+**Skills:**
+
+1. Reading user input using `input()`
+2. Applying f-strings or the `format()` method for basic formatting
+3. Error handling using try-except blocks
+
+**Challenge Guidelines:**
+
+1. Write a Python program that demonstrates your mastery of user input and formatting.
+2. Your program should include at least 3 different scenarios where you collect user input and display formatted output.
+3. Use f-strings or the `format()` method to format your output.
+
+**Prerequisites:** Familiarity with basic Python syntax, including variables, data types, and control structures.
+
+**Review Process:**
+
+1. Participants will submit their program code for review.
+2. The reviewer will evaluate the program based on the milestones outlined above, providing feedback on areas of strength and improvement.
+3. A scoring system (0-10 points) will be used to assess the participant's work, considering factors such as:
+	* Code readability and organization
+	* Effective use of formatting techniques
+	* Error handling and robustness
+
+By completing this challenge, you'll develop a solid foundation in reading user input and applying basic formatting techniques, preparing you for more advanced programming tasks."
+"**Challenge Name:** ""Error-Proofing Your Code""
+
+**Objective:** To identify common errors in Python code, fix logic errors, and learn effective debugging techniques using print statements and the pdb module. By completing this challenge, participants will develop their problem-solving skills, improve their understanding of error handling, and enhance their coding efficiency.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+As a programmer, you're tasked with developing a simple calculator program that takes two numbers as input and returns their sum, difference, product, or quotient. However, your code is filled with errors, and you need to identify and fix them. Your goal is to write a functioning calculator program using Python.
+
+**Milestone Evaluation:**
+
+1. **Error Identification:** Identify at least 5 common errors in the provided code ( syntax, logic, and runtime).
+2. **Fixing Logic Errors:** Correct the logic errors in the code to ensure it performs the desired calculations.
+3. **Using Debugging Tools:** Utilize print statements and the pdb module to debug the code and identify any remaining issues.
+
+**Skills:**
+
+* Identifying common errors in Python code
+* Fixing logic errors and syntax mistakes
+* Using print statements for debugging
+* Understanding the basics of the pdb module
+
+**Challenge Guidelines:**
+
+1. Start with the provided code and identify at least 5 common errors.
+2. Fix the logic errors to ensure the calculator program works correctly.
+3. Use print statements to debug the code and identify any remaining issues.
+4. Utilize the pdb module to set breakpoints and inspect variables as needed.
+5. Test the program thoroughly to ensure it produces accurate results.
+
+**Prerequisites:**
+
+1. Basic understanding of Python programming concepts
+2. Familiarity with debugging techniques and tools
+
+**Review Process:**
+
+1. Participants will submit their code for review, including comments explaining their thought process and any challenges they faced.
+2. The reviewer will evaluate the code based on the following criteria:
+	* Accuracy (does the program produce correct results?)
+	* Efficiency (is the code optimized for performance?)
+	* Code quality (are there any syntax or logic errors?)
+3. Feedback will be provided to participants, highlighting areas of improvement and suggestions for future challenges.
+
+By completing this challenge, participants will develop a solid foundation in error handling and debugging techniques, essential skills for any programmer."
+"**Challenge Name:** ""Scope It Out!""
+
+**Objective:** Master the concept of Scope in Python by applying it to a real-world scenario, using list comprehensions, generators, and decorators to streamline data processing.
+
+**Challenge Level:** Basics
+
+**Description:**
+
+You're a junior data analyst at a marketing firm. Your task is to analyze customer purchase data from a recent campaign. You've been given a large dataset containing information about each customer's purchases, including the item name, price, and quantity. Your objective is to write a Python program that can efficiently process this data, extract relevant insights, and provide meaningful recommendations.
+
+To complete this challenge, you'll need to:
+
+1. Understand the concept of Scope in Python, which determines the accessibility of variables within different functions or blocks of code.
+2. Use list comprehensions to create a new list containing only the items with prices above a certain threshold (e.g., $50).
+3. Implement generators to process the large dataset in an efficient manner, without loading the entire data into memory.
+4. Apply decorators to add functionality to your generator functions, such as calculating the total cost of each item or tracking the number of times a customer has purchased an item.
+
+**Milestone Evaluation:**
+
+* Milestone 1 (20%): Write a Python program that demonstrates understanding of Scope in Python, using variables within different functions.
+* Milestone 2 (30%): Implement list comprehensions to filter out items with prices above the threshold and generate a new list containing only relevant data.
+* Milestone 3 (30%): Use generators to process the large dataset, applying filters or transformations as needed. Demonstrate efficiency by comparing processing times for different approaches.
+* Milestone 4 (20%): Apply decorators to your generator functions, adding functionality such as calculating total costs or tracking purchase history.
+
+**Skills:**
+
+* Understanding of Scope in Python
+* Application of list comprehensions and generators
+* Decorator implementation and usage
+* Efficient data processing using Python
+
+**Challenge Guidelines:**
+
+1. Use the `pandas` library to read and manipulate the dataset.
+2. The input dataset is provided as a CSV file (e.g., ""customer_data.csv"").
+3. Your program should be designed to handle large datasets efficiently, without loading the entire data into memory.
+4. Provide detailed comments in your code explaining your thought process and any challenges you faced.
+
+**Prerequisites:**
+
+1. Basic understanding of Python syntax and data structures
+2. Familiarity with the `pandas` library
+
+**Review Process:**
+
+1. Your program will be reviewed based on its functionality, efficiency, and adherence to best practices.
+2. A score out of 100 will be awarded based on your achievement of each milestone.
+3. Feedback will be provided on areas for improvement, including code organization, readability, and performance.
+
+Get ready to ""Scope It Out!"" and demonstrate your mastery of Advanced Basics concepts in Python!"
+"**Challenge:** ""Unlocking AI Fundamentals""
+
+**Objective:** To introduce beginners to the world of Artificial Intelligence (AI) by understanding its definition, history, and types, while developing practical skills in identifying and categorizing different AI approaches.
+
+**Challenge Level:** Beginner
+
+**Description:**
+
+In this challenge, you will explore the basics of AI and learn to identify three main types: rule-based, machine learning, and hybrid. You will also analyze real-world examples of each type, understanding their strengths and limitations.
+
+Task:
+
+1. Read the provided article on AI fundamentals (https://www.example.com/ai-fundamentals).
+2. Watch a video explaining the history of AI (https://www.youtube.com/history-of-ai).
+3. Complete a quiz to test your understanding of AI definitions and types.
+4. Analyze three real-world examples, each representing one type of AI:
+	* Rule-based: An expert system used in medicine for diagnosing patients.
+	* Machine learning: A recommendation engine used by an e-commerce website.
+	* Hybrid: A chatbot that uses both rule-based and machine learning approaches.
+
+Milestone Evaluation:
+
+1. Completion of the quiz (40%): Participants must score at least 80% to demonstrate a basic understanding of AI definitions and types.
+2. Real-world example analysis (30%): Participants' written analyses of each real-world example will be evaluated based on their ability to identify the type of AI used, understand its strengths and limitations, and provide potential applications.
+
+**Skills:**
+
+1. Understanding AI definitions and types
+2. Analyzing real-world examples of different AI approaches
+3. Identifying strengths and limitations of each AI type
+
+**Challenge Guidelines:**
+
+* Complete all tasks within the given timeframe.
+* Follow proper citation and referencing for any outside sources used in your analysis.
+* Keep written answers concise and well-organized.
+
+**Prerequisites:**
+
+1. Basic understanding of computer science concepts
+2. Familiarity with programming languages (not required but beneficial)
+
+**Review Process:**
+
+1. Automatic scoring for the quiz.
+2. Manual evaluation of real-world example analyses by a designated expert.
+3. Feedback will be provided to participants based on their performance.
+
+By completing this challenge, you will gain a solid foundation in AI fundamentals and develop skills in identifying and categorizing different AI approaches."
+"**Challenge Name:** ""Predicting Student Performance""
+
+**Objective:** As a beginner in machine learning, your goal is to develop a predictive model that forecasts students' grades based on their demographic information. You will learn about supervised learning, regression, and common algorithms like linear regression.
+
+**Challenge Level:** Beginner
+
+**Description:**
+
+You are tasked with creating a predictive model that predicts students' grades based on their demographic information. The dataset provided contains information about 500 students, including:
+
+* Age
+* Gender (0 for female, 1 for male)
+* Parent's education level (1-4)
+* Grade point average (GPA)
+
+Your task is to develop a model that predicts the grade a student will receive based on these demographic features. You can use supervised learning techniques and algorithms like linear regression, decision trees, or clustering.
+
+**Milestone Evaluation:**
+
+To complete this challenge, you should achieve the following milestones:
+
+1. **Data Exploration**: Load and explore the dataset to understand the distribution of variables and identify any outliers.
+2. **Model Selection**: Choose a suitable algorithm for your predictive model (linear regression, decision tree, or clustering) and explain why you selected it.
+3. **Model Training**: Train your chosen algorithm using 70% of the data and evaluate its performance on the remaining 30%.
+4. **Model Evaluation**: Compare the performance of your trained model with other possible models (e.g., random forest, neural network) to justify your choice.
+
+**Skills:**
+
+* Understand the basics of supervised learning
+* Apply regression techniques for predicting continuous variables
+* Develop a predictive model using common algorithms like linear regression and decision trees
+* Evaluate the performance of different machine learning models
+
+**Challenge Guidelines:**
+
+1. Use Python as your programming language.
+2. You can use libraries like scikit-learn, pandas, or numpy to perform data analysis and machine learning tasks.
+3. Your trained model should achieve an R-squared value of at least 0.5 on the test set.
+4. Justify your choice of algorithm and provide a brief explanation of your thought process.
+
+**Prerequisites:**
+
+1. Basic understanding of Python programming
+2. Familiarity with data analysis and visualization concepts
+
+**Review Process:**
+
+Your challenge submission will be reviewed based on the following criteria:
+
+* Code quality, organization, and readability (30%)
+* Algorithm selection and justification (20%)
+* Model performance and evaluation (25%)
+* Overall presentation and explanation (25%)
+
+To facilitate skill growth and professional development, this challenge focuses on developing practical skills in machine learning fundamentals, particularly supervised learning, regression, and common algorithms. By completing this challenge, participants will gain hands-on experience with real-world data and learn to evaluate the performance of different machine learning models."
+"**Challenge:** ""Image Classification using Convolutional Neural Networks (CNNs)""
+
+**Objective:**
+
+In this beginner-level challenge, participants will learn the basics of convolutional neural networks (CNNs) and apply their knowledge to classify images into predefined categories. By the end of the challenge, participants will be able to understand how CNNs work, design a simple CNN architecture, train the network on a dataset, and evaluate its performance.
+
+**Challenge Level:** Beginner
+
+**Description:**
+
+In this challenge, you'll learn about convolutional neural networks (CNNs) and apply them to classify images into predefined categories. You'll start by understanding the basics of CNNs, including image processing, convolutional layers, pooling layers, and fully connected layers. Then, you'll design a simple CNN architecture for classifying images into different categories.
+
+Your task is to:
+
+1. Collect and preprocess an image dataset (e.g., CIFAR-10 or MNIST).
+2. Design a simple CNN architecture using Keras or TensorFlow.
+3. Train the network on the preprocessed dataset.
+4. Evaluate the performance of your trained model using metrics such as accuracy, precision, recall, and F1-score.
+
+**Milestone Evaluation:**
+
+To complete this challenge, you'll need to achieve the following milestones:
+
+1. **Milestone 1:** Collect and preprocess an image dataset (30% of total points).
+2. **Milestone 2:** Design a simple CNN architecture and train it on the preprocessed dataset (40% of total points).
+3. **Milestone 3:** Evaluate the performance of your trained model using metrics such as accuracy, precision, recall, and F1-score (30% of total points).
+
+**Skills:**
+
+This challenge will help you develop the following skills:
+
+* Understanding of CNNs and their applications
+* Designing a simple CNN architecture
+* Preprocessing image datasets
+* Training and evaluating a deep learning model using metrics such as accuracy, precision, recall, and F1-score
+
+**Challenge Guidelines:**
+
+1. Use Keras or TensorFlow to implement your CNN.
+2. Ensure that your dataset is properly preprocessed (e.g., normalized, resized).
+3. Choose a suitable loss function and optimizer for training your model.
+4. Evaluate your model's performance using metrics such as accuracy, precision, recall, and F1-score.
+
+**Prerequisites:**
+
+Before attempting this challenge, make sure you have:
+
+* Basic knowledge of Python programming
+* Understanding of linear algebra and calculus
+* Familiarity with deep learning concepts (not necessarily hands-on experience)
+
+**Review Process:**
+
+Your work will be reviewed based on the following criteria:
+
+* Correctness of CNN architecture design
+* Effectiveness of model training and evaluation
+* Clarity and organization of written explanations and code comments
+
+Feedback will be provided in the form of:
+
+* Code review with suggestions for improvement
+* Written feedback highlighting strengths and areas for improvement"
+"**Challenge Name:** ""AI Insights: Text Analysis for Beginners""
+
+**Objective:** Develop fundamental skills in Natural Language Processing (NLP) by analyzing text data related to Artificial Intelligence. Participants will learn to preprocess text, generate word embeddings, perform sentiment analysis, and recognize named entities.
+
+**Challenge Level:** Beginner
+
+**Description:** You are a junior data analyst at an AI research institute. Your task is to analyze a dataset of articles about AI-related topics. The goal is to extract insights from the text, including sentiment, entity recognition, and topic modeling. You will apply various NLP techniques, such as word2vec, GloVe, and named entity recognition (NER), to gain deeper understanding of the data.
+
+**Milestone Evaluation:**
+
+1. **Text Preprocessing**: Participants must correctly preprocess the text data by tokenizing sentences, removing stop words, and stemming/lemmatizing words.
+2. **Word Embeddings**: Generate word embeddings using word2vec or GloVe techniques, demonstrating an understanding of semantic relationships between words.
+3. **Sentiment Analysis**: Classify sentiment (positive/negative/neutral) for a given set of articles, achieving at least 80% accuracy.
+4. **Named Entity Recognition**: Identify and extract named entities (people, organizations, locations) from the text data, demonstrating an understanding of entity recognition concepts.
+
+**Skills:**
+
+* Text preprocessing techniques
+* Word embedding algorithms (word2vec, GloVe)
+* Sentiment analysis approaches
+* Named entity recognition (NER) methods
+* Data analysis and visualization
+
+**Challenge Guidelines:**
+
+1. Use a Python-based NLP library (e.g., NLTK, spaCy, gensim).
+2. Preprocess the text data using the techniques learned in this challenge.
+3. Implement word embeddings using either word2vec or GloVe algorithms.
+4. Perform sentiment analysis and named entity recognition on the preprocessed text data.
+5. Visualize your results using a suitable plotting library (e.g., matplotlib, seaborn).
+
+**Prerequisites:**
+
+1. Basic programming knowledge in Python
+2. Familiarity with NLP concepts (text preprocessing, word embeddings, sentiment analysis)
+3. Access to a Python environment and relevant libraries
+
+**Review Process:**
+
+1. Participants submit their code and output files.
+2. The submitted work is reviewed by AI experts for completeness, accuracy, and quality of the results.
+3. Feedback will be provided on coding efficiency, NLP techniques used, and overall performance.
+
+By completing this challenge, participants will develop a solid foundation in Natural Language Processing, enabling them to tackle more complex AI-related tasks and projects."
+"**Challenge Name:** ""Image Analysis for Medical Diagnosis""
+
+**Objective:** Develop skills in image acquisition, processing, and object detection using Convolutional Neural Networks (CNNs) to aid in medical diagnosis. Participants will learn to analyze medical images and identify specific features or abnormalities.
+
+**Challenge Level:** Beginner
+
+**Description:** As a medical imaging specialist, you are tasked with analyzing medical images to diagnose patients. You receive a dataset of chest X-ray images containing various lung diseases. Your goal is to develop an image processing pipeline that can accurately detect and classify these diseases using CNNs.
+
+The challenge involves the following tasks:
+
+1. Image Acquisition: Collect and preprocess the chest X-ray images, ensuring they are in a suitable format for analysis.
+2. Object Detection: Train a CNN model to detect and segment specific regions of interest (ROIs) within the images, such as tumors or abnormalities.
+3. Feature Extraction: Extract relevant features from the detected ROIs using techniques like convolutional filters or edge detection.
+4. Classification: Train a classification module to predict the likelihood of specific lung diseases based on the extracted features.
+
+**Milestone Evaluation:**
+
+* Milestone 1 (20%): Preprocess and prepare the image dataset for analysis.
+* Milestone 2 (30%): Develop a basic CNN model for object detection and segmentation.
+* Milestone 3 (30%): Extract relevant features from the detected ROIs.
+* Milestone 4 (20%): Train and evaluate a classification module to predict lung diseases.
+
+**Skills:**
+
+* Image acquisition and processing
+* Convolutional neural networks (CNNs) for image classification and object detection
+* Object recognition and tracking
+* Feature extraction and dimensionality reduction
+
+**Challenge Guidelines:**
+
+1. Use the provided dataset of chest X-ray images.
+2. Ensure your preprocessing pipeline is robust and accurate.
+3. Train a CNN model with a suitable architecture and hyperparameters.
+4. Evaluate your model using metrics like accuracy, precision, recall, and F1-score.
+
+**Prerequisites:** Basic knowledge of Python programming, image processing, and machine learning concepts.
+
+**Review Process:**
+
+1. Participants will submit their code and written explanations for each milestone.
+2. The review process will assess the completeness, accuracy, and effectiveness of each submission.
+3. Feedback will be provided on areas of improvement, and scoring will be based on the overall performance of the model.
+
+This challenge is designed to facilitate skill growth in image acquisition, processing, and object detection using CNNs, while applying these skills to a practical medical diagnosis scenario."
+"**Challenge:** ""RoboGarden: Designing a Simple Robot Arm""
+
+**Objective:** To design and simulate a simple robot arm using kinematics and dynamics, and develop skills in motion planning and trajectory optimization. Participants will learn how to integrate sensors and actuators to control the robot's movement.
+
+**Challenge Level:** Beginner
+
+**Description:** Imagine you're an AI researcher at a company that designs and builds gardening robots. Your task is to design a simple robot arm that can pick up small plants from one tray and place them in another tray with precision. The robot arm will have three joints (shoulder, elbow, and wrist) and will need to be controlled using sensors and actuators.
+
+**Milestone Evaluation:**
+
+1. **Design and Simulation**: Participants must design the robot arm's kinematics and dynamics, including joint configurations and actuator selection. They should simulate the robot's movement using software or tools like Python's OpenRAVE or MATLAB's Robotics Toolbox.
+2. **Motion Planning**: Participants will develop a motion plan for the robot arm to pick up a small plant from one tray and place it in another tray with precision. They can use algorithms like RRT (Rapidly-exploring Random Tree) or PRM (Probabilistic Roadmap Method).
+3. **Sensorimotor Integration**: Participants must integrate sensors (e.g., proximity, force, and joint position sensors) to control the robot's movement in real-time.
+
+**Skills:**
+
+* Kinematics and dynamics of robots
+* Motion planning and trajectory optimization
+* Sensorimotor integration and feedback control
+* Programming skills in Python or MATLAB
+
+**Challenge Guidelines:**
+
+1. **Design constraints**: The robot arm should be able to move the plant from one tray to another without dropping it.
+2. **Simulation requirements**: Participants must simulate the robot's movement using software or tools, and provide a video or animation of the simulation.
+3. **Motion planning constraints**: The motion plan should ensure that the plant is picked up and placed with precision, without colliding with other objects in the environment.
+
+**Prerequisites:**
+
+* Basic programming skills in Python or MATLAB
+* Familiarity with robotics and control systems concepts
+
+**Review Process:**
+
+1. **Peer review**: Participants will review each other's work based on predefined criteria (e.g., design feasibility, motion planning accuracy, sensorimotor integration).
+2. **Instructor evaluation**: The instructor will evaluate the submissions based on the same criteria, providing feedback and scoring.
+
+This challenge is designed to facilitate skill growth in robotics and control systems, with a focus on practical application and problem-solving. Participants will develop their skills in kinematics and dynamics, motion planning, sensorimotor integration, and programming."
+"**Challenge:** ""Fairness in AI: Designing Unbiased Recommendation Systems""
+
+**Objective:** Develop an understanding of bias and fairness in AI systems, and apply this knowledge to design a recommendation system that promotes equality and diversity.
+
+**Challenge Level:** Beginner
+
+**Description:** As a data scientist, you will work on designing a movie recommendation system for a popular streaming service. The goal is to create a system that suggests movies based on users' viewing habits and preferences while ensuring fairness and minimizing bias. You will analyze the impact of different algorithms and features on the recommendation process, identifying potential biases and developing strategies to mitigate them.
+
+**Milestone Evaluation:**
+
+1. **Understanding Bias:** Analyze the concept of bias in AI systems and its effects on decision-making.
+	* Criteria: Provide a clear definition of bias, explain its sources, and discuss the consequences of biased AI.
+2. **Data Exploration:** Explore a dataset containing movie ratings and user demographics to identify potential biases.
+	* Criteria: Identify at least three instances where data may be biased, and propose methods to mitigate these biases.
+3. **Recommendation System Design:** Develop a recommendation system using a chosen algorithm (e.g., collaborative filtering, content-based filtering).
+	* Criteria: Ensure the system considers user demographics and movie genres to promote fairness and diversity in recommendations.
+4. **Evaluation and Improvement:** Evaluate the performance of your recommendation system and identify areas for improvement.
+	* Criteria: Compare the performance of different algorithms, discuss potential biases, and propose strategies to enhance fairness.
+
+**Skills:**
+
+1. Understanding bias and its impact on AI decision-making
+2. Data exploration and analysis techniques
+3. Recommendation system design using various algorithms (e.g., collaborative filtering, content-based filtering)
+4. Evaluation and improvement of recommendation systems
+
+**Challenge Guidelines:**
+
+* Use publicly available datasets or create a mock dataset with sample data.
+* Focus on promoting fairness and diversity in recommendations rather than solely optimizing for accuracy.
+* Consider the ethical implications of your design choices.
+
+**Prerequisites:** Basic understanding of AI, machine learning, and data analysis concepts. Familiarity with Python programming is recommended but not required.
+
+**Review Process:**
+
+1. **Initial Submission:** Participants submit their recommendation system design, including algorithms used, features considered, and proposed strategies for mitigating bias.
+2. **Peer Review:** Peers review submissions based on the provided criteria, providing constructive feedback and suggestions for improvement.
+3. **Final Submission:** After incorporating peer feedback, participants resubmit their revised recommendation system design.
+4. **Evaluation:** The challenge administrator evaluates the final submissions, assessing the effectiveness of each design in promoting fairness and diversity.
+
+By completing this challenge, participants will develop a deeper understanding of bias and fairness in AI systems, as well as practical skills in designing and evaluating recommendation systems that promote equality and diversity."
+"**Challenge:** ""Medical Diagnosis Assistant""
+
+**Objective:** Develop a beginner-level AI application in healthcare by creating a medical diagnosis assistant using natural language processing (NLP) techniques. This challenge will help participants learn about healthcare applications of AI, improve their NLP skills, and understand how to apply AI in a real-world scenario.
+
+**Challenge Level:** Beginner
+
+**Description:** Create an AI-powered medical diagnosis assistant that can analyze patient symptoms and provide possible diagnoses based on existing medical knowledge. Participants will work with a dataset containing patient records, symptoms, and diagnoses. Using this data, they will train a machine learning model to predict diagnoses given a set of symptoms.
+
+**Milestone Evaluation:**
+
+1. **Data Preparation**: Evaluate participant's ability to prepare the dataset for training (50 points).
+2. **Model Training**: Assess participant's success in training an NLP-based model using the prepared dataset (30 points).
+3. **Model Evaluation**: Review participant's model evaluation results, including accuracy and precision metrics (20 points).
+
+**Skills:**
+
+* Natural Language Processing (NLP) techniques
+* Machine learning model development and training
+* Data preparation and preprocessing for AI applications
+* Healthcare domain knowledge and medical terminology
+
+**Challenge Guidelines:**
+
+1. Use a publicly available dataset containing patient records, symptoms, and diagnoses.
+2. Train an NLP-based machine learning model using the prepared dataset.
+3. Evaluate the model's performance using accuracy and precision metrics.
+4. Develop a user-friendly interface for the diagnosis assistant.
+
+**Prerequisites:**
+
+* Basic understanding of AI concepts and machine learning
+* Familiarity with programming languages such as Python or R
+* Access to a computer or coding environment
+
+**Review Process:**
+
+1. **Peer Review**: Participants will review each other's work, providing feedback on data preparation, model training, and model evaluation.
+2. **Expert Review**: A panel of AI experts will evaluate the top submissions based on their performance, creativity, and overall quality.
+
+By completing this challenge, participants will develop essential skills in NLP, machine learning, and healthcare applications of AI. They will also gain hands-on experience working with real-world datasets and developing practical AI solutions for medical diagnosis assistance."
+"**Challenge:** ""AI Pioneer""
+
+**Objective:** Develop practical skills in popular AI frameworks, libraries, and cloud-based platforms. Participants will learn to implement AI solutions using TensorFlow, PyTorch, Keras, Scikit-learn, and cloud-based AI platforms like AWS, Google Cloud, and Azure.
+
+**Challenge Level:** Beginner
+
+**Description:** In this challenge, participants will work on a series of tasks that focus on implementing AI solutions using various frameworks and libraries. They will also explore cloud-based AI platforms to deploy their models. The challenge is designed to help beginners develop a solid foundation in AI and prepare them for more advanced projects.
+
+**Milestone Evaluation:**
+
+1. **Task 1:** Implement a basic neural network using Keras (30% of total score).
+	* Evaluate: Correctness, clarity, and completeness of the code.
+2. **Task 2:** Train a classification model using Scikit-learn and deploy it on AWS SageMaker (20% of total score).
+	* Evaluate: Accuracy of the model, correctness of deployment, and overall performance.
+3. **Task 3:** Develop a simple reinforcement learning agent using PyTorch (15% of total score).
+	* Evaluate: Correctness of the implementation, clarity of the code, and overall performance.
+4. **Task 4:** Deploy a TensorFlow model on Google Cloud AI Platform (10% of total score).
+	* Evaluate: Correctness of deployment, accuracy of predictions, and overall performance.
+
+**Skills:**
+
+1. Programming skills in Python
+2. Familiarity with popular AI frameworks and libraries (TensorFlow, PyTorch, Keras, Scikit-learn)
+3. Understanding of cloud-based AI platforms (AWS, Google Cloud, Azure)
+4. Basic knowledge of machine learning concepts and terminology
+
+**Challenge Guidelines:**
+
+1. Participants must complete each task within the allotted time frame.
+2. Code must be submitted in a GitHub repository or a similar platform.
+3. All tasks must be completed independently; no collaboration is allowed.
+
+**Prerequisites:** None, but basic programming skills in Python are recommended.
+
+**Review Process:**
+
+1. A panel of experts will review each submission based on the evaluation criteria outlined above.
+2. Participants will receive feedback on their work, including suggestions for improvement and areas of strength.
+3. The top scorers will be awarded a certificate of completion and recognition.
+
+By completing this challenge, participants will develop essential skills in AI frameworks, libraries, and cloud-based platforms. They will gain practical experience in implementing AI solutions and deploying models on various cloud platforms."
+"**Challenge Name:** Building an AI-Powered Chatbot for Customer Service
+
+**Objective:** Design and implement a simple chatbot using natural language processing (NLP) techniques to provide customer support. This challenge aims to help beginners learn the basics of building an AI system, including data preprocessing, feature engineering, model selection, and deployment.
+
+**Challenge Level:** Beginner
+
+**Description:**
+
+In this challenge, you'll design and implement a simple chatbot that uses NLP to respond to customer inquiries in a fictional company's customer service platform. The chatbot should be able to understand and respond to basic queries about products, services, and store locations.
+
+You will work with a dataset of customer inquiries and responses to train your chatbot model using popular AI frameworks such as TensorFlow or PyTorch. You'll also need to preprocess the data, engineer features, select an appropriate model, evaluate its performance, and deploy it for integration into the customer service platform.
+
+**Milestone Evaluation:**
+
+1. **Data Preprocessing**: Participants must demonstrate a basic understanding of data preprocessing techniques, including tokenization, stemming, and lemmatization.
+2. **Feature Engineering**: Participants must show that they can extract relevant features from the dataset, such as part-of-speech tags, named entity recognition, and sentiment analysis.
+3. **Model Selection and Training**: Participants must select an appropriate NLP model (e.g., recurrent neural network or transformer) and demonstrate its performance on a test set.
+4. **Deployment and Integration**: Participants must deploy their chatbot model in a simulated customer service platform and provide a demonstration of how it responds to customer inquiries.
+
+**Skills:**
+
+* Data preprocessing techniques
+* Feature engineering for NLP tasks
+* Model selection and training using popular AI frameworks
+* Deployment and integration of AI models
+* Basic understanding of NLP concepts (e.g., tokenization, stemming, lemmatization)
+
+**Challenge Guidelines:**
+
+1. Use a publicly available dataset or create your own dataset with customer inquiries and responses.
+2. Implement the chatbot using a popular AI framework (e.g., TensorFlow, PyTorch).
+3. Demonstrate the chatbot's performance on a test set using metrics such as accuracy, precision, and recall.
+4. Provide a brief report outlining the challenges faced during the challenge and any insights gained from the experience.
+
+**Prerequisites:**
+
+1. Basic understanding of programming concepts (e.g., Python, Java).
+2. Familiarity with AI or machine learning concepts is beneficial but not required.
+
+**Review Process:**
+
+1. Participants will submit their chatbot implementation and a brief report outlining their process.
+2. The review panel will evaluate the submissions based on the milestones outlined above.
+3. Feedback will be provided to participants, highlighting areas of strength and weakness in their implementation.
+4. A final score will be awarded based on the participant's performance, with bonus points for creativity and innovative approaches.
+
+By completing this challenge, participants will develop a solid foundation in building an AI system, including data preprocessing, feature engineering, model selection, and deployment. This practical application of AI concepts will help beginners build their skills and prepare them for more advanced challenges in the field of artificial intelligence."
